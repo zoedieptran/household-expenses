@@ -1,0 +1,501 @@
+date,transaction,description,amount,currency,source_name,load_timestamp,transaction_id
+2024-01-01,AFT_IN,direct deposit from employer this,2298.06,CAD,ws_cheque,2024-01-01 10:00:00,wc_employer_this_0001
+2024-02-02,AFT_IN,direct deposit from employer this,4057.04,CAD,ws_cheque,2024-02-02 10:00:00,wc_employer_this_0002
+2024-03-03,AFT_IN,direct deposit from employer this,3633.4,CAD,ws_cheque,2024-03-03 10:00:00,wc_employer_this_0003
+2024-04-04,AFT_IN,direct deposit from employer this,4933.53,CAD,ws_cheque,2024-04-04 10:00:00,wc_employer_this_0004
+2024-05-05,AFT_IN,direct deposit from employer this,3076.02,CAD,ws_cheque,2024-05-05 10:00:00,wc_employer_this_0005
+2024-06-06,AFT_IN,direct deposit from employer this,3194.42,CAD,ws_cheque,2024-06-06 10:00:00,wc_employer_this_0006
+2024-07-07,AFT_IN,direct deposit from employer this,2569.43,CAD,ws_cheque,2024-07-07 10:00:00,wc_employer_this_0007
+2024-08-08,AFT_IN,direct deposit from employer this,2366.48,CAD,ws_cheque,2024-08-08 10:00:00,wc_employer_this_0008
+2024-09-09,AFT_IN,direct deposit from employer this,4544.1,CAD,ws_cheque,2024-09-09 10:00:00,wc_employer_this_0009
+2024-10-10,AFT_IN,direct deposit from employer this,3364.15,CAD,ws_cheque,2024-10-10 10:00:00,wc_employer_this_0010
+2024-11-11,AFT_IN,direct deposit from employer this,3988.31,CAD,ws_cheque,2024-11-11 10:00:00,wc_employer_this_0011
+2024-12-12,AFT_IN,direct deposit from employer this,3925.11,CAD,ws_cheque,2024-12-12 10:00:00,wc_employer_this_0012
+2024-01-13,AFT_IN,direct deposit from employer this,3791.44,CAD,ws_cheque,2024-01-13 10:00:00,wc_employer_this_0013
+2024-02-14,AFT_IN,direct deposit from employer this,2064.07,CAD,ws_cheque,2024-02-14 10:00:00,wc_employer_this_0014
+2024-03-15,AFT_IN,direct deposit from employer this,4360.38,CAD,ws_cheque,2024-03-15 10:00:00,wc_employer_this_0015
+2024-04-16,AFT_IN,direct deposit from employer this,2730.71,CAD,ws_cheque,2024-04-16 10:00:00,wc_employer_this_0016
+2024-05-17,AFT_IN,direct deposit from employer this,2377.77,CAD,ws_cheque,2024-05-17 10:00:00,wc_employer_this_0017
+2024-06-18,AFT_IN,direct deposit from employer this,3693.73,CAD,ws_cheque,2024-06-18 10:00:00,wc_employer_this_0018
+2024-07-19,AFT_IN,direct deposit from employer this,2205.83,CAD,ws_cheque,2024-07-19 10:00:00,wc_employer_this_0019
+2024-08-20,AFT_IN,direct deposit from employer this,4295.47,CAD,ws_cheque,2024-08-20 10:00:00,wc_employer_this_0020
+2024-09-21,AFT_IN,direct deposit from employer this,2621.47,CAD,ws_cheque,2024-09-21 10:00:00,wc_employer_this_0021
+2024-10-22,AFT_IN,direct deposit from employer this,2647.85,CAD,ws_cheque,2024-10-22 10:00:00,wc_employer_this_0022
+2024-11-23,AFT_IN,direct deposit from employer this,4609.09,CAD,ws_cheque,2024-11-23 10:00:00,wc_employer_this_0023
+2024-12-24,AFT_IN,direct deposit from employer this,2985.68,CAD,ws_cheque,2024-12-24 10:00:00,wc_employer_this_0024
+2024-01-25,AFT_IN,direct deposit from employer this,2442.66,CAD,ws_cheque,2024-01-25 10:00:00,wc_employer_this_0025
+2024-02-26,AFT_IN,direct deposit from employer this,4701.59,CAD,ws_cheque,2024-02-26 10:00:00,wc_employer_this_0026
+2024-03-27,AFT_IN,direct deposit from employer this,2008.51,CAD,ws_cheque,2024-03-27 10:00:00,wc_employer_this_0027
+2024-04-28,AFT_IN,direct deposit from employer this,4575.22,CAD,ws_cheque,2024-04-28 10:00:00,wc_employer_this_0028
+2024-05-01,AFT_IN,direct deposit from employer this,2434.06,CAD,ws_cheque,2024-05-01 10:00:00,wc_employer_this_0029
+2024-06-02,AFT_IN,direct deposit from employer this,2389.98,CAD,ws_cheque,2024-06-02 10:00:00,wc_employer_this_0030
+2024-07-03,AFT_IN,direct deposit from employer this,2751.96,CAD,ws_cheque,2024-07-03 10:00:00,wc_employer_this_0031
+2024-08-04,AFT_IN,direct deposit from employer this,2523.49,CAD,ws_cheque,2024-08-04 10:00:00,wc_employer_this_0032
+2024-09-05,AFT_IN,direct deposit from employer this,3983.17,CAD,ws_cheque,2024-09-05 10:00:00,wc_employer_this_0033
+2024-10-06,AFT_IN,direct deposit from employer this,2077.34,CAD,ws_cheque,2024-10-06 10:00:00,wc_employer_this_0034
+2024-11-07,AFT_IN,direct deposit from employer this,2044.58,CAD,ws_cheque,2024-11-07 10:00:00,wc_employer_this_0035
+2024-12-08,AFT_IN,direct deposit from employer this,4369.95,CAD,ws_cheque,2024-12-08 10:00:00,wc_employer_this_0036
+2024-01-09,AFT_IN,direct deposit from employer this,2713.79,CAD,ws_cheque,2024-01-09 10:00:00,wc_employer_this_0037
+2024-02-10,AFT_IN,direct deposit from employer this,2971.31,CAD,ws_cheque,2024-02-10 10:00:00,wc_employer_this_0038
+2024-03-11,AFT_IN,direct deposit from employer this,2522.74,CAD,ws_cheque,2024-03-11 10:00:00,wc_employer_this_0039
+2024-04-12,AFT_IN,direct deposit from employer this,2157.2,CAD,ws_cheque,2024-04-12 10:00:00,wc_employer_this_0040
+2024-05-13,AFT_IN,direct deposit from employer this,4225.15,CAD,ws_cheque,2024-05-13 10:00:00,wc_employer_this_0041
+2024-06-14,AFT_IN,direct deposit from employer this,3578.26,CAD,ws_cheque,2024-06-14 10:00:00,wc_employer_this_0042
+2024-07-15,AFT_IN,direct deposit from employer this,4237.0,CAD,ws_cheque,2024-07-15 10:00:00,wc_employer_this_0043
+2024-08-16,AFT_IN,direct deposit from employer this,3428.74,CAD,ws_cheque,2024-08-16 10:00:00,wc_employer_this_0044
+2024-09-17,AFT_IN,direct deposit from employer this,4334.05,CAD,ws_cheque,2024-09-17 10:00:00,wc_employer_this_0045
+2024-10-18,AFT_IN,direct deposit from employer this,3539.71,CAD,ws_cheque,2024-10-18 10:00:00,wc_employer_this_0046
+2024-11-19,AFT_IN,direct deposit from employer this,2327.16,CAD,ws_cheque,2024-11-19 10:00:00,wc_employer_this_0047
+2024-12-20,AFT_IN,direct deposit from employer this,3511.52,CAD,ws_cheque,2024-12-20 10:00:00,wc_employer_this_0048
+2024-01-21,AFT_IN,direct deposit from employer this,4836.25,CAD,ws_cheque,2024-01-21 10:00:00,wc_employer_this_0049
+2024-02-22,AFT_IN,direct deposit from employer this,2130.1,CAD,ws_cheque,2024-02-22 10:00:00,wc_employer_this_0050
+2024-03-23,AFT_IN,direct deposit from employer this,4349.68,CAD,ws_cheque,2024-03-23 10:00:00,wc_employer_this_0051
+2024-04-24,AFT_IN,direct deposit from employer this,4600.94,CAD,ws_cheque,2024-04-24 10:00:00,wc_employer_this_0052
+2024-05-25,AFT_IN,direct deposit from employer this,3564.35,CAD,ws_cheque,2024-05-25 10:00:00,wc_employer_this_0053
+2024-06-26,AFT_IN,direct deposit from employer this,3374.13,CAD,ws_cheque,2024-06-26 10:00:00,wc_employer_this_0054
+2024-07-27,AFT_IN,direct deposit from employer this,4892.08,CAD,ws_cheque,2024-07-27 10:00:00,wc_employer_this_0055
+2024-08-28,AFT_IN,direct deposit from employer this,2182.48,CAD,ws_cheque,2024-08-28 10:00:00,wc_employer_this_0056
+2024-09-01,AFT_IN,direct deposit from employer this,3436.95,CAD,ws_cheque,2024-09-01 10:00:00,wc_employer_this_0057
+2024-10-02,AFT_IN,direct deposit from employer this,3204.85,CAD,ws_cheque,2024-10-02 10:00:00,wc_employer_this_0058
+2024-11-03,AFT_IN,direct deposit from employer this,4058.29,CAD,ws_cheque,2024-11-03 10:00:00,wc_employer_this_0059
+2024-12-04,AFT_IN,direct deposit from employer this,3470.81,CAD,ws_cheque,2024-12-04 10:00:00,wc_employer_this_0060
+2024-01-05,AFT_IN,direct deposit from employer this,4729.1,CAD,ws_cheque,2024-01-05 10:00:00,wc_employer_this_0061
+2024-02-06,AFT_IN,direct deposit from employer this,2220.47,CAD,ws_cheque,2024-02-06 10:00:00,wc_employer_this_0062
+2024-03-07,AFT_IN,direct deposit from employer this,2242.37,CAD,ws_cheque,2024-03-07 10:00:00,wc_employer_this_0063
+2024-04-08,AFT_IN,direct deposit from employer this,3824.89,CAD,ws_cheque,2024-04-08 10:00:00,wc_employer_this_0064
+2024-05-09,AFT_IN,direct deposit from employer this,2197.05,CAD,ws_cheque,2024-05-09 10:00:00,wc_employer_this_0065
+2024-06-10,AFT_IN,direct deposit from employer this,2825.05,CAD,ws_cheque,2024-06-10 10:00:00,wc_employer_this_0066
+2024-07-11,AFT_IN,direct deposit from employer this,3899.23,CAD,ws_cheque,2024-07-11 10:00:00,wc_employer_this_0067
+2024-08-12,AFT_IN,direct deposit from employer this,3645.07,CAD,ws_cheque,2024-08-12 10:00:00,wc_employer_this_0068
+2024-09-13,AFT_IN,direct deposit from employer this,2975.56,CAD,ws_cheque,2024-09-13 10:00:00,wc_employer_this_0069
+2024-10-14,AFT_IN,direct deposit from employer this,4983.88,CAD,ws_cheque,2024-10-14 10:00:00,wc_employer_this_0070
+2024-11-15,AFT_IN,direct deposit from employer this,3591.67,CAD,ws_cheque,2024-11-15 10:00:00,wc_employer_this_0071
+2024-12-16,AFT_IN,direct deposit from employer this,3361.15,CAD,ws_cheque,2024-12-16 10:00:00,wc_employer_this_0072
+2024-01-17,AFT_IN,direct deposit from employer this,3816.28,CAD,ws_cheque,2024-01-17 10:00:00,wc_employer_this_0073
+2024-02-18,AFT_IN,direct deposit from employer this,2297.54,CAD,ws_cheque,2024-02-18 10:00:00,wc_employer_this_0074
+2024-03-19,AFT_IN,direct deposit from employer this,4105.34,CAD,ws_cheque,2024-03-19 10:00:00,wc_employer_this_0075
+2024-04-20,AFT_IN,direct deposit from employer this,4558.38,CAD,ws_cheque,2024-04-20 10:00:00,wc_employer_this_0076
+2024-05-21,AFT_IN,direct deposit from employer this,3952.75,CAD,ws_cheque,2024-05-21 10:00:00,wc_employer_this_0077
+2024-06-22,AFT_IN,direct deposit from employer this,4306.89,CAD,ws_cheque,2024-06-22 10:00:00,wc_employer_this_0078
+2024-07-23,AFT_IN,direct deposit from employer this,4162.52,CAD,ws_cheque,2024-07-23 10:00:00,wc_employer_this_0079
+2024-08-24,AFT_IN,direct deposit from employer this,2645.07,CAD,ws_cheque,2024-08-24 10:00:00,wc_employer_this_0080
+2024-01-01,AFT_IN,direct deposit from rbc insurance,506.4,CAD,ws_cheque,2024-01-01 10:00:00,wc_rbcins_0001
+2024-02-02,AFT_IN,direct deposit from rbc insurance,305.64,CAD,ws_cheque,2024-02-02 10:00:00,wc_rbcins_0002
+2024-03-03,AFT_IN,direct deposit from rbc insurance,405.04,CAD,ws_cheque,2024-03-03 10:00:00,wc_rbcins_0003
+2024-04-04,AFT_IN,direct deposit from rbc insurance,508.15,CAD,ws_cheque,2024-04-04 10:00:00,wc_rbcins_0004
+2024-05-05,AFT_IN,direct deposit from rbc insurance,474.39,CAD,ws_cheque,2024-05-05 10:00:00,wc_rbcins_0005
+2024-06-06,AFT_IN,direct deposit from rbc insurance,185.58,CAD,ws_cheque,2024-06-06 10:00:00,wc_rbcins_0006
+2024-07-07,AFT_IN,direct deposit from rbc insurance,484.09,CAD,ws_cheque,2024-07-07 10:00:00,wc_rbcins_0007
+2024-08-08,AFT_IN,direct deposit from rbc insurance,698.6,CAD,ws_cheque,2024-08-08 10:00:00,wc_rbcins_0008
+2024-09-09,AFT_IN,direct deposit from rbc insurance,436.87,CAD,ws_cheque,2024-09-09 10:00:00,wc_rbcins_0009
+2024-10-10,AFT_IN,direct deposit from rbc insurance,237.38,CAD,ws_cheque,2024-10-10 10:00:00,wc_rbcins_0010
+2024-11-11,AFT_IN,direct deposit from rbc insurance,930.69,CAD,ws_cheque,2024-11-11 10:00:00,wc_rbcins_0011
+2024-12-12,AFT_IN,direct deposit from rbc insurance,160.42,CAD,ws_cheque,2024-12-12 10:00:00,wc_rbcins_0012
+2024-01-13,AFT_IN,direct deposit from rbc insurance,848.59,CAD,ws_cheque,2024-01-13 10:00:00,wc_rbcins_0013
+2024-02-14,AFT_IN,direct deposit from rbc insurance,183.91,CAD,ws_cheque,2024-02-14 10:00:00,wc_rbcins_0014
+2024-03-15,AFT_IN,direct deposit from rbc insurance,186.91,CAD,ws_cheque,2024-03-15 10:00:00,wc_rbcins_0015
+2024-04-16,AFT_IN,direct deposit from rbc insurance,764.92,CAD,ws_cheque,2024-04-16 10:00:00,wc_rbcins_0016
+2024-05-17,AFT_IN,direct deposit from rbc insurance,830.59,CAD,ws_cheque,2024-05-17 10:00:00,wc_rbcins_0017
+2024-06-18,AFT_IN,direct deposit from rbc insurance,600.73,CAD,ws_cheque,2024-06-18 10:00:00,wc_rbcins_0018
+2024-07-19,AFT_IN,direct deposit from rbc insurance,627.82,CAD,ws_cheque,2024-07-19 10:00:00,wc_rbcins_0019
+2024-08-20,AFT_IN,direct deposit from rbc insurance,605.43,CAD,ws_cheque,2024-08-20 10:00:00,wc_rbcins_0020
+2024-09-21,AFT_IN,direct deposit from rbc insurance,396.68,CAD,ws_cheque,2024-09-21 10:00:00,wc_rbcins_0021
+2024-10-22,AFT_IN,direct deposit from rbc insurance,210.01,CAD,ws_cheque,2024-10-22 10:00:00,wc_rbcins_0022
+2024-11-23,AFT_IN,direct deposit from rbc insurance,418.24,CAD,ws_cheque,2024-11-23 10:00:00,wc_rbcins_0023
+2024-12-24,AFT_IN,direct deposit from rbc insurance,698.81,CAD,ws_cheque,2024-12-24 10:00:00,wc_rbcins_0024
+2024-01-25,AFT_IN,direct deposit from rbc insurance,775.26,CAD,ws_cheque,2024-01-25 10:00:00,wc_rbcins_0025
+2024-02-26,AFT_IN,direct deposit from rbc insurance,881.28,CAD,ws_cheque,2024-02-26 10:00:00,wc_rbcins_0026
+2024-03-27,AFT_IN,direct deposit from rbc insurance,748.95,CAD,ws_cheque,2024-03-27 10:00:00,wc_rbcins_0027
+2024-04-28,AFT_IN,direct deposit from rbc insurance,971.56,CAD,ws_cheque,2024-04-28 10:00:00,wc_rbcins_0028
+2024-05-01,AFT_IN,direct deposit from rbc insurance,640.37,CAD,ws_cheque,2024-05-01 10:00:00,wc_rbcins_0029
+2024-06-02,AFT_IN,direct deposit from rbc insurance,416.48,CAD,ws_cheque,2024-06-02 10:00:00,wc_rbcins_0030
+2024-01-01,AFT_IN,direct deposit from kbfxcad,293.18,CAD,ws_cheque,2024-01-01 10:00:00,wc_kbfx_0001
+2024-02-02,AFT_IN,direct deposit from kbfxcad,114.24,CAD,ws_cheque,2024-02-02 10:00:00,wc_kbfx_0002
+2024-03-03,AFT_IN,direct deposit from kbfxcad,331.8,CAD,ws_cheque,2024-03-03 10:00:00,wc_kbfx_0003
+2024-04-04,AFT_IN,direct deposit from kbfxcad,119.88,CAD,ws_cheque,2024-04-04 10:00:00,wc_kbfx_0004
+2024-05-05,AFT_IN,direct deposit from kbfxcad,63.03,CAD,ws_cheque,2024-05-05 10:00:00,wc_kbfx_0005
+2024-06-06,AFT_IN,direct deposit from kbfxcad,424.23,CAD,ws_cheque,2024-06-06 10:00:00,wc_kbfx_0006
+2024-07-07,AFT_IN,direct deposit from kbfxcad,190.1,CAD,ws_cheque,2024-07-07 10:00:00,wc_kbfx_0007
+2024-08-08,AFT_IN,direct deposit from kbfxcad,383.68,CAD,ws_cheque,2024-08-08 10:00:00,wc_kbfx_0008
+2024-09-09,AFT_IN,direct deposit from kbfxcad,291.31,CAD,ws_cheque,2024-09-09 10:00:00,wc_kbfx_0009
+2024-10-10,AFT_IN,direct deposit from kbfxcad,405.54,CAD,ws_cheque,2024-10-10 10:00:00,wc_kbfx_0010
+2024-11-11,AFT_IN,direct deposit from kbfxcad,424.13,CAD,ws_cheque,2024-11-11 10:00:00,wc_kbfx_0011
+2024-12-12,AFT_IN,direct deposit from kbfxcad,487.53,CAD,ws_cheque,2024-12-12 10:00:00,wc_kbfx_0012
+2024-01-13,AFT_IN,direct deposit from kbfxcad,411.03,CAD,ws_cheque,2024-01-13 10:00:00,wc_kbfx_0013
+2024-02-14,AFT_IN,direct deposit from kbfxcad,310.65,CAD,ws_cheque,2024-02-14 10:00:00,wc_kbfx_0014
+2024-03-15,AFT_IN,direct deposit from kbfxcad,324.92,CAD,ws_cheque,2024-03-15 10:00:00,wc_kbfx_0015
+2024-04-16,AFT_IN,direct deposit from kbfxcad,22.86,CAD,ws_cheque,2024-04-16 10:00:00,wc_kbfx_0016
+2024-05-17,AFT_IN,direct deposit from kbfxcad,465.25,CAD,ws_cheque,2024-05-17 10:00:00,wc_kbfx_0017
+2024-06-18,AFT_IN,direct deposit from kbfxcad,416.44,CAD,ws_cheque,2024-06-18 10:00:00,wc_kbfx_0018
+2024-07-19,AFT_IN,direct deposit from kbfxcad,141.05,CAD,ws_cheque,2024-07-19 10:00:00,wc_kbfx_0019
+2024-08-20,AFT_IN,direct deposit from kbfxcad,98.4,CAD,ws_cheque,2024-08-20 10:00:00,wc_kbfx_0020
+2024-09-21,AFT_IN,direct deposit from kbfxcad,354.32,CAD,ws_cheque,2024-09-21 10:00:00,wc_kbfx_0021
+2024-10-22,AFT_IN,direct deposit from kbfxcad,161.4,CAD,ws_cheque,2024-10-22 10:00:00,wc_kbfx_0022
+2024-11-23,AFT_IN,direct deposit from kbfxcad,176.51,CAD,ws_cheque,2024-11-23 10:00:00,wc_kbfx_0023
+2024-12-24,AFT_IN,direct deposit from kbfxcad,12.99,CAD,ws_cheque,2024-12-24 10:00:00,wc_kbfx_0024
+2024-01-25,AFT_IN,direct deposit from kbfxcad,436.23,CAD,ws_cheque,2024-01-25 10:00:00,wc_kbfx_0025
+2024-02-26,AFT_IN,direct deposit from kbfxcad,287.5,CAD,ws_cheque,2024-02-26 10:00:00,wc_kbfx_0026
+2024-03-27,AFT_IN,direct deposit from kbfxcad,206.38,CAD,ws_cheque,2024-03-27 10:00:00,wc_kbfx_0027
+2024-04-28,AFT_IN,direct deposit from kbfxcad,79.52,CAD,ws_cheque,2024-04-28 10:00:00,wc_kbfx_0028
+2024-05-01,AFT_IN,direct deposit from kbfxcad,320.25,CAD,ws_cheque,2024-05-01 10:00:00,wc_kbfx_0029
+2024-06-02,AFT_IN,direct deposit from kbfxcad,25.02,CAD,ws_cheque,2024-06-02 10:00:00,wc_kbfx_0030
+2024-01-01,AFT_IN,transfer in from savings,1517.61,CAD,ws_cheque,2024-01-01 10:00:00,wc_tfin_0001
+2024-02-02,AFT_IN,transfer in from savings,508.75,CAD,ws_cheque,2024-02-02 10:00:00,wc_tfin_0002
+2024-03-03,AFT_IN,transfer in from savings,897.68,CAD,ws_cheque,2024-03-03 10:00:00,wc_tfin_0003
+2024-04-04,AFT_IN,transfer in from savings,747.7,CAD,ws_cheque,2024-04-04 10:00:00,wc_tfin_0004
+2024-05-05,AFT_IN,transfer in from savings,803.1,CAD,ws_cheque,2024-05-05 10:00:00,wc_tfin_0005
+2024-06-06,AFT_IN,transfer in from savings,1471.03,CAD,ws_cheque,2024-06-06 10:00:00,wc_tfin_0006
+2024-07-07,AFT_IN,transfer in from savings,1575.99,CAD,ws_cheque,2024-07-07 10:00:00,wc_tfin_0007
+2024-08-08,AFT_IN,transfer in from savings,1178.43,CAD,ws_cheque,2024-08-08 10:00:00,wc_tfin_0008
+2024-09-09,AFT_IN,transfer in from savings,261.42,CAD,ws_cheque,2024-09-09 10:00:00,wc_tfin_0009
+2024-10-10,AFT_IN,transfer in from savings,199.96,CAD,ws_cheque,2024-10-10 10:00:00,wc_tfin_0010
+2024-11-11,AFT_IN,transfer in from savings,399.08,CAD,ws_cheque,2024-11-11 10:00:00,wc_tfin_0011
+2024-12-12,AFT_IN,transfer in from savings,1273.89,CAD,ws_cheque,2024-12-12 10:00:00,wc_tfin_0012
+2024-01-13,AFT_IN,transfer in from savings,1380.54,CAD,ws_cheque,2024-01-13 10:00:00,wc_tfin_0013
+2024-02-14,AFT_IN,transfer in from savings,617.0,CAD,ws_cheque,2024-02-14 10:00:00,wc_tfin_0014
+2024-03-15,AFT_IN,transfer in from savings,1357.68,CAD,ws_cheque,2024-03-15 10:00:00,wc_tfin_0015
+2024-04-16,AFT_IN,transfer in from savings,1022.76,CAD,ws_cheque,2024-04-16 10:00:00,wc_tfin_0016
+2024-05-17,AFT_IN,transfer in from savings,939.88,CAD,ws_cheque,2024-05-17 10:00:00,wc_tfin_0017
+2024-06-18,AFT_IN,transfer in from savings,619.02,CAD,ws_cheque,2024-06-18 10:00:00,wc_tfin_0018
+2024-07-19,AFT_IN,transfer in from savings,1534.39,CAD,ws_cheque,2024-07-19 10:00:00,wc_tfin_0019
+2024-08-20,AFT_IN,transfer in from savings,316.25,CAD,ws_cheque,2024-08-20 10:00:00,wc_tfin_0020
+2024-09-21,AFT_IN,transfer in from savings,916.84,CAD,ws_cheque,2024-09-21 10:00:00,wc_tfin_0021
+2024-10-22,AFT_IN,transfer in from savings,638.17,CAD,ws_cheque,2024-10-22 10:00:00,wc_tfin_0022
+2024-11-23,AFT_IN,transfer in from savings,1389.12,CAD,ws_cheque,2024-11-23 10:00:00,wc_tfin_0023
+2024-12-24,AFT_IN,transfer in from savings,1024.6,CAD,ws_cheque,2024-12-24 10:00:00,wc_tfin_0024
+2024-01-25,AFT_IN,transfer in from savings,1367.55,CAD,ws_cheque,2024-01-25 10:00:00,wc_tfin_0025
+2024-02-26,AFT_IN,transfer in from savings,186.29,CAD,ws_cheque,2024-02-26 10:00:00,wc_tfin_0026
+2024-03-27,AFT_IN,transfer in from savings,851.0,CAD,ws_cheque,2024-03-27 10:00:00,wc_tfin_0027
+2024-04-28,AFT_IN,transfer in from savings,1238.72,CAD,ws_cheque,2024-04-28 10:00:00,wc_tfin_0028
+2024-05-01,AFT_IN,transfer in from savings,114.61,CAD,ws_cheque,2024-05-01 10:00:00,wc_tfin_0029
+2024-06-02,AFT_IN,transfer in from savings,672.7,CAD,ws_cheque,2024-06-02 10:00:00,wc_tfin_0030
+2024-07-03,AFT_IN,transfer in from savings,501.34,CAD,ws_cheque,2024-07-03 10:00:00,wc_tfin_0031
+2024-08-04,AFT_IN,transfer in from savings,360.75,CAD,ws_cheque,2024-08-04 10:00:00,wc_tfin_0032
+2024-09-05,AFT_IN,transfer in from savings,585.49,CAD,ws_cheque,2024-09-05 10:00:00,wc_tfin_0033
+2024-10-06,AFT_IN,transfer in from savings,723.43,CAD,ws_cheque,2024-10-06 10:00:00,wc_tfin_0034
+2024-11-07,AFT_IN,transfer in from savings,114.69,CAD,ws_cheque,2024-11-07 10:00:00,wc_tfin_0035
+2024-12-08,AFT_IN,transfer in from savings,1519.33,CAD,ws_cheque,2024-12-08 10:00:00,wc_tfin_0036
+2024-01-09,AFT_IN,transfer in from savings,433.82,CAD,ws_cheque,2024-01-09 10:00:00,wc_tfin_0037
+2024-02-10,AFT_IN,transfer in from savings,822.39,CAD,ws_cheque,2024-02-10 10:00:00,wc_tfin_0038
+2024-03-11,AFT_IN,transfer in from savings,1436.98,CAD,ws_cheque,2024-03-11 10:00:00,wc_tfin_0039
+2024-04-12,AFT_IN,transfer in from savings,1050.5,CAD,ws_cheque,2024-04-12 10:00:00,wc_tfin_0040
+2024-05-13,AFT_IN,transfer in from savings,1683.37,CAD,ws_cheque,2024-05-13 10:00:00,wc_tfin_0041
+2024-06-14,AFT_IN,transfer in from savings,1631.78,CAD,ws_cheque,2024-06-14 10:00:00,wc_tfin_0042
+2024-07-15,AFT_IN,transfer in from savings,236.94,CAD,ws_cheque,2024-07-15 10:00:00,wc_tfin_0043
+2024-08-16,AFT_IN,transfer in from savings,1737.35,CAD,ws_cheque,2024-08-16 10:00:00,wc_tfin_0044
+2024-09-17,AFT_IN,transfer in from savings,180.37,CAD,ws_cheque,2024-09-17 10:00:00,wc_tfin_0045
+2024-10-18,AFT_IN,transfer in from savings,135.61,CAD,ws_cheque,2024-10-18 10:00:00,wc_tfin_0046
+2024-11-19,AFT_IN,transfer in from savings,1850.21,CAD,ws_cheque,2024-11-19 10:00:00,wc_tfin_0047
+2024-12-20,AFT_IN,transfer in from savings,1738.01,CAD,ws_cheque,2024-12-20 10:00:00,wc_tfin_0048
+2024-01-21,AFT_IN,transfer in from savings,1193.94,CAD,ws_cheque,2024-01-21 10:00:00,wc_tfin_0049
+2024-02-22,AFT_IN,transfer in from savings,1189.46,CAD,ws_cheque,2024-02-22 10:00:00,wc_tfin_0050
+2024-01-01,INTEREST,interest earned,3.58,CAD,ws_cheque,2024-01-01 10:00:00,wc_int_0001
+2024-02-02,INTEREST,interest earned,2.15,CAD,ws_cheque,2024-02-02 10:00:00,wc_int_0002
+2024-03-03,INTEREST,interest earned,0.66,CAD,ws_cheque,2024-03-03 10:00:00,wc_int_0003
+2024-04-04,INTEREST,interest earned,0.2,CAD,ws_cheque,2024-04-04 10:00:00,wc_int_0004
+2024-05-05,INTEREST,interest earned,1.69,CAD,ws_cheque,2024-05-05 10:00:00,wc_int_0005
+2024-06-06,INTEREST,interest earned,4.03,CAD,ws_cheque,2024-06-06 10:00:00,wc_int_0006
+2024-07-07,INTEREST,interest earned,3.13,CAD,ws_cheque,2024-07-07 10:00:00,wc_int_0007
+2024-08-08,INTEREST,interest earned,4.18,CAD,ws_cheque,2024-08-08 10:00:00,wc_int_0008
+2024-09-09,INTEREST,interest earned,4.61,CAD,ws_cheque,2024-09-09 10:00:00,wc_int_0009
+2024-10-10,INTEREST,interest earned,0.53,CAD,ws_cheque,2024-10-10 10:00:00,wc_int_0010
+2024-11-11,INTEREST,interest earned,4.24,CAD,ws_cheque,2024-11-11 10:00:00,wc_int_0011
+2024-12-12,INTEREST,interest earned,1.29,CAD,ws_cheque,2024-12-12 10:00:00,wc_int_0012
+2024-01-13,INTEREST,interest earned,2.99,CAD,ws_cheque,2024-01-13 10:00:00,wc_int_0013
+2024-02-14,INTEREST,interest earned,2.67,CAD,ws_cheque,2024-02-14 10:00:00,wc_int_0014
+2024-03-15,INTEREST,interest earned,2.04,CAD,ws_cheque,2024-03-15 10:00:00,wc_int_0015
+2024-04-16,INTEREST,interest earned,1.62,CAD,ws_cheque,2024-04-16 10:00:00,wc_int_0016
+2024-05-17,INTEREST,interest earned,1.76,CAD,ws_cheque,2024-05-17 10:00:00,wc_int_0017
+2024-06-18,INTEREST,interest earned,1.73,CAD,ws_cheque,2024-06-18 10:00:00,wc_int_0018
+2024-07-19,INTEREST,interest earned,0.92,CAD,ws_cheque,2024-07-19 10:00:00,wc_int_0019
+2024-08-20,INTEREST,interest earned,2.6,CAD,ws_cheque,2024-08-20 10:00:00,wc_int_0020
+2024-01-01,CASHBACK,cash back reward,2.03,CAD,ws_cheque,2024-01-01 10:00:00,wc_cashback_0001
+2024-02-02,CASHBACK,cash back reward,5.59,CAD,ws_cheque,2024-02-02 10:00:00,wc_cashback_0002
+2024-03-03,CASHBACK,cash back reward,9.15,CAD,ws_cheque,2024-03-03 10:00:00,wc_cashback_0003
+2024-04-04,CASHBACK,cash back reward,4.14,CAD,ws_cheque,2024-04-04 10:00:00,wc_cashback_0004
+2024-05-05,CASHBACK,cash back reward,7.55,CAD,ws_cheque,2024-05-05 10:00:00,wc_cashback_0005
+2024-06-06,CASHBACK,cash back reward,8.37,CAD,ws_cheque,2024-06-06 10:00:00,wc_cashback_0006
+2024-07-07,CASHBACK,cash back reward,8.34,CAD,ws_cheque,2024-07-07 10:00:00,wc_cashback_0007
+2024-08-08,CASHBACK,cash back reward,3.13,CAD,ws_cheque,2024-08-08 10:00:00,wc_cashback_0008
+2024-09-09,CASHBACK,cash back reward,2.32,CAD,ws_cheque,2024-09-09 10:00:00,wc_cashback_0009
+2024-10-10,CASHBACK,cash back reward,2.78,CAD,ws_cheque,2024-10-10 10:00:00,wc_cashback_0010
+2024-11-11,CASHBACK,cash back reward,6.42,CAD,ws_cheque,2024-11-11 10:00:00,wc_cashback_0011
+2024-12-12,CASHBACK,cash back reward,7.84,CAD,ws_cheque,2024-12-12 10:00:00,wc_cashback_0012
+2024-01-13,CASHBACK,cash back reward,6.9,CAD,ws_cheque,2024-01-13 10:00:00,wc_cashback_0013
+2024-02-14,CASHBACK,cash back reward,2.59,CAD,ws_cheque,2024-02-14 10:00:00,wc_cashback_0014
+2024-03-15,CASHBACK,cash back reward,7.96,CAD,ws_cheque,2024-03-15 10:00:00,wc_cashback_0015
+2024-04-16,CASHBACK,cash back reward,5.45,CAD,ws_cheque,2024-04-16 10:00:00,wc_cashback_0016
+2024-05-17,CASHBACK,cash back reward,7.79,CAD,ws_cheque,2024-05-17 10:00:00,wc_cashback_0017
+2024-06-18,CASHBACK,cash back reward,7.84,CAD,ws_cheque,2024-06-18 10:00:00,wc_cashback_0018
+2024-07-19,CASHBACK,cash back reward,5.04,CAD,ws_cheque,2024-07-19 10:00:00,wc_cashback_0019
+2024-08-20,CASHBACK,cash back reward,9.32,CAD,ws_cheque,2024-08-20 10:00:00,wc_cashback_0020
+2024-01-01,SPEND_REFUND,amazon purchase refund,117.25,CAD,ws_cheque,2024-01-01 10:00:00,wc_refund_0001
+2024-02-02,SPEND_REFUND,target return refund,130.71,CAD,ws_cheque,2024-02-02 10:00:00,wc_refund_0002
+2024-03-03,SPEND_REFUND,walmart refund,128.66,CAD,ws_cheque,2024-03-03 10:00:00,wc_refund_0003
+2024-04-04,SPEND_REFUND,best buy refund,174.21,CAD,ws_cheque,2024-04-04 10:00:00,wc_refund_0004
+2024-05-05,SPEND_REFUND,amazon purchase refund,129.17,CAD,ws_cheque,2024-05-05 10:00:00,wc_refund_0005
+2024-06-06,SPEND_REFUND,target return refund,38.68,CAD,ws_cheque,2024-06-06 10:00:00,wc_refund_0006
+2024-07-07,SPEND_REFUND,walmart refund,22.97,CAD,ws_cheque,2024-07-07 10:00:00,wc_refund_0007
+2024-08-08,SPEND_REFUND,best buy refund,94.02,CAD,ws_cheque,2024-08-08 10:00:00,wc_refund_0008
+2024-09-09,SPEND_REFUND,amazon purchase refund,67.54,CAD,ws_cheque,2024-09-09 10:00:00,wc_refund_0009
+2024-10-10,SPEND_REFUND,target return refund,62.19,CAD,ws_cheque,2024-10-10 10:00:00,wc_refund_0010
+2024-11-11,SPEND_REFUND,walmart refund,20.67,CAD,ws_cheque,2024-11-11 10:00:00,wc_refund_0011
+2024-12-12,SPEND_REFUND,best buy refund,106.39,CAD,ws_cheque,2024-12-12 10:00:00,wc_refund_0012
+2024-01-13,SPEND_REFUND,amazon purchase refund,68.98,CAD,ws_cheque,2024-01-13 10:00:00,wc_refund_0013
+2024-02-14,SPEND_REFUND,target return refund,95.86,CAD,ws_cheque,2024-02-14 10:00:00,wc_refund_0014
+2024-03-15,SPEND_REFUND,walmart refund,20.81,CAD,ws_cheque,2024-03-15 10:00:00,wc_refund_0015
+2024-04-16,SPEND_REFUND,best buy refund,168.02,CAD,ws_cheque,2024-04-16 10:00:00,wc_refund_0016
+2024-05-17,SPEND_REFUND,amazon purchase refund,24.58,CAD,ws_cheque,2024-05-17 10:00:00,wc_refund_0017
+2024-06-18,SPEND_REFUND,target return refund,174.21,CAD,ws_cheque,2024-06-18 10:00:00,wc_refund_0018
+2024-07-19,SPEND_REFUND,walmart refund,172.51,CAD,ws_cheque,2024-07-19 10:00:00,wc_refund_0019
+2024-08-20,SPEND_REFUND,best buy refund,126.85,CAD,ws_cheque,2024-08-20 10:00:00,wc_refund_0020
+2024-09-21,SPEND_REFUND,amazon purchase refund,106.34,CAD,ws_cheque,2024-09-21 10:00:00,wc_refund_0021
+2024-10-22,SPEND_REFUND,target return refund,97.92,CAD,ws_cheque,2024-10-22 10:00:00,wc_refund_0022
+2024-11-23,SPEND_REFUND,walmart refund,115.32,CAD,ws_cheque,2024-11-23 10:00:00,wc_refund_0023
+2024-12-24,SPEND_REFUND,best buy refund,160.45,CAD,ws_cheque,2024-12-24 10:00:00,wc_refund_0024
+2024-01-25,SPEND_REFUND,amazon purchase refund,180.22,CAD,ws_cheque,2024-01-25 10:00:00,wc_refund_0025
+2024-02-26,SPEND_REFUND,target return refund,95.45,CAD,ws_cheque,2024-02-26 10:00:00,wc_refund_0026
+2024-03-27,SPEND_REFUND,walmart refund,163.87,CAD,ws_cheque,2024-03-27 10:00:00,wc_refund_0027
+2024-04-28,SPEND_REFUND,best buy refund,133.85,CAD,ws_cheque,2024-04-28 10:00:00,wc_refund_0028
+2024-05-01,SPEND_REFUND,amazon purchase refund,71.09,CAD,ws_cheque,2024-05-01 10:00:00,wc_refund_0029
+2024-06-02,SPEND_REFUND,target return refund,100.37,CAD,ws_cheque,2024-06-02 10:00:00,wc_refund_0030
+2024-07-03,SPEND_REFUND,walmart refund,38.66,CAD,ws_cheque,2024-07-03 10:00:00,wc_refund_0031
+2024-08-04,SPEND_REFUND,best buy refund,21.76,CAD,ws_cheque,2024-08-04 10:00:00,wc_refund_0032
+2024-09-05,SPEND_REFUND,amazon purchase refund,29.67,CAD,ws_cheque,2024-09-05 10:00:00,wc_refund_0033
+2024-10-06,SPEND_REFUND,target return refund,180.83,CAD,ws_cheque,2024-10-06 10:00:00,wc_refund_0034
+2024-11-07,SPEND_REFUND,walmart refund,75.25,CAD,ws_cheque,2024-11-07 10:00:00,wc_refund_0035
+2024-12-08,SPEND_REFUND,best buy refund,145.72,CAD,ws_cheque,2024-12-08 10:00:00,wc_refund_0036
+2024-01-09,SPEND_REFUND,amazon purchase refund,105.86,CAD,ws_cheque,2024-01-09 10:00:00,wc_refund_0037
+2024-02-10,SPEND_REFUND,target return refund,42.79,CAD,ws_cheque,2024-02-10 10:00:00,wc_refund_0038
+2024-03-11,SPEND_REFUND,walmart refund,57.07,CAD,ws_cheque,2024-03-11 10:00:00,wc_refund_0039
+2024-04-12,SPEND_REFUND,best buy refund,93.17,CAD,ws_cheque,2024-04-12 10:00:00,wc_refund_0040
+2024-05-13,SPEND_REFUND,amazon purchase refund,93.49,CAD,ws_cheque,2024-05-13 10:00:00,wc_refund_0041
+2024-06-14,SPEND_REFUND,target return refund,109.32,CAD,ws_cheque,2024-06-14 10:00:00,wc_refund_0042
+2024-07-15,SPEND_REFUND,walmart refund,40.16,CAD,ws_cheque,2024-07-15 10:00:00,wc_refund_0043
+2024-08-16,SPEND_REFUND,best buy refund,80.84,CAD,ws_cheque,2024-08-16 10:00:00,wc_refund_0044
+2024-09-17,SPEND_REFUND,amazon purchase refund,63.75,CAD,ws_cheque,2024-09-17 10:00:00,wc_refund_0045
+2024-10-18,SPEND_REFUND,target return refund,87.67,CAD,ws_cheque,2024-10-18 10:00:00,wc_refund_0046
+2024-11-19,SPEND_REFUND,walmart refund,74.29,CAD,ws_cheque,2024-11-19 10:00:00,wc_refund_0047
+2024-12-20,SPEND_REFUND,best buy refund,123.6,CAD,ws_cheque,2024-12-20 10:00:00,wc_refund_0048
+2024-01-21,SPEND_REFUND,amazon purchase refund,159.95,CAD,ws_cheque,2024-01-21 10:00:00,wc_refund_0049
+2024-02-22,SPEND_REFUND,target return refund,132.99,CAD,ws_cheque,2024-02-22 10:00:00,wc_refund_0050
+2024-01-01,OBP_OUT,VISA-SCOTIABANK payment,-225.23,CAD,ws_cheque,2024-01-01 10:00:00,wc_ccpay_0001
+2024-02-02,OBP_OUT,SCOTIALINE payment,-279.56,CAD,ws_cheque,2024-02-02 10:00:00,wc_ccpay_0002
+2024-03-03,OBP_OUT,VISA-TD payment,-1388.92,CAD,ws_cheque,2024-03-03 10:00:00,wc_ccpay_0003
+2024-04-04,OBP_OUT,VISA-TORONTO DOMINION payment,-639.88,CAD,ws_cheque,2024-04-04 10:00:00,wc_ccpay_0004
+2024-05-05,OBP_OUT,VISA-SCOTIABANK payment,-1475.09,CAD,ws_cheque,2024-05-05 10:00:00,wc_ccpay_0005
+2024-06-06,OBP_OUT,SCOTIALINE payment,-1347.47,CAD,ws_cheque,2024-06-06 10:00:00,wc_ccpay_0006
+2024-07-07,OBP_OUT,VISA-TD payment,-1822.05,CAD,ws_cheque,2024-07-07 10:00:00,wc_ccpay_0007
+2024-08-08,OBP_OUT,VISA-TORONTO DOMINION payment,-1759.23,CAD,ws_cheque,2024-08-08 10:00:00,wc_ccpay_0008
+2024-09-09,OBP_OUT,VISA-SCOTIABANK payment,-733.39,CAD,ws_cheque,2024-09-09 10:00:00,wc_ccpay_0009
+2024-10-10,OBP_OUT,SCOTIALINE payment,-1207.21,CAD,ws_cheque,2024-10-10 10:00:00,wc_ccpay_0010
+2024-11-11,OBP_OUT,VISA-TD payment,-368.71,CAD,ws_cheque,2024-11-11 10:00:00,wc_ccpay_0011
+2024-12-12,OBP_OUT,VISA-TORONTO DOMINION payment,-764.66,CAD,ws_cheque,2024-12-12 10:00:00,wc_ccpay_0012
+2024-01-13,OBP_OUT,VISA-SCOTIABANK payment,-1938.62,CAD,ws_cheque,2024-01-13 10:00:00,wc_ccpay_0013
+2024-02-14,OBP_OUT,SCOTIALINE payment,-1427.11,CAD,ws_cheque,2024-02-14 10:00:00,wc_ccpay_0014
+2024-03-15,OBP_OUT,VISA-TD payment,-844.72,CAD,ws_cheque,2024-03-15 10:00:00,wc_ccpay_0015
+2024-04-16,OBP_OUT,VISA-TORONTO DOMINION payment,-1230.58,CAD,ws_cheque,2024-04-16 10:00:00,wc_ccpay_0016
+2024-05-17,OBP_OUT,VISA-SCOTIABANK payment,-1882.2,CAD,ws_cheque,2024-05-17 10:00:00,wc_ccpay_0017
+2024-06-18,OBP_OUT,SCOTIALINE payment,-688.21,CAD,ws_cheque,2024-06-18 10:00:00,wc_ccpay_0018
+2024-07-19,OBP_OUT,VISA-TD payment,-815.69,CAD,ws_cheque,2024-07-19 10:00:00,wc_ccpay_0019
+2024-08-20,OBP_OUT,VISA-TORONTO DOMINION payment,-1604.16,CAD,ws_cheque,2024-08-20 10:00:00,wc_ccpay_0020
+2024-09-21,OBP_OUT,VISA-SCOTIABANK payment,-1645.05,CAD,ws_cheque,2024-09-21 10:00:00,wc_ccpay_0021
+2024-10-22,OBP_OUT,SCOTIALINE payment,-1373.22,CAD,ws_cheque,2024-10-22 10:00:00,wc_ccpay_0022
+2024-11-23,OBP_OUT,VISA-TD payment,-1675.02,CAD,ws_cheque,2024-11-23 10:00:00,wc_ccpay_0023
+2024-12-24,OBP_OUT,VISA-TORONTO DOMINION payment,-1503.67,CAD,ws_cheque,2024-12-24 10:00:00,wc_ccpay_0024
+2024-01-25,OBP_OUT,VISA-SCOTIABANK payment,-1402.29,CAD,ws_cheque,2024-01-25 10:00:00,wc_ccpay_0025
+2024-02-26,OBP_OUT,SCOTIALINE payment,-1100.15,CAD,ws_cheque,2024-02-26 10:00:00,wc_ccpay_0026
+2024-03-27,OBP_OUT,VISA-TD payment,-1327.45,CAD,ws_cheque,2024-03-27 10:00:00,wc_ccpay_0027
+2024-04-28,OBP_OUT,VISA-TORONTO DOMINION payment,-904.47,CAD,ws_cheque,2024-04-28 10:00:00,wc_ccpay_0028
+2024-05-01,OBP_OUT,VISA-SCOTIABANK payment,-787.47,CAD,ws_cheque,2024-05-01 10:00:00,wc_ccpay_0029
+2024-06-02,OBP_OUT,SCOTIALINE payment,-788.94,CAD,ws_cheque,2024-06-02 10:00:00,wc_ccpay_0030
+2024-07-03,OBP_OUT,VISA-TD payment,-442.5,CAD,ws_cheque,2024-07-03 10:00:00,wc_ccpay_0031
+2024-08-04,OBP_OUT,VISA-TORONTO DOMINION payment,-506.97,CAD,ws_cheque,2024-08-04 10:00:00,wc_ccpay_0032
+2024-09-05,OBP_OUT,VISA-SCOTIABANK payment,-1900.57,CAD,ws_cheque,2024-09-05 10:00:00,wc_ccpay_0033
+2024-10-06,OBP_OUT,SCOTIALINE payment,-1023.91,CAD,ws_cheque,2024-10-06 10:00:00,wc_ccpay_0034
+2024-11-07,OBP_OUT,VISA-TD payment,-530.43,CAD,ws_cheque,2024-11-07 10:00:00,wc_ccpay_0035
+2024-12-08,OBP_OUT,VISA-TORONTO DOMINION payment,-361.37,CAD,ws_cheque,2024-12-08 10:00:00,wc_ccpay_0036
+2024-01-09,OBP_OUT,VISA-SCOTIABANK payment,-246.61,CAD,ws_cheque,2024-01-09 10:00:00,wc_ccpay_0037
+2024-02-10,OBP_OUT,SCOTIALINE payment,-1704.41,CAD,ws_cheque,2024-02-10 10:00:00,wc_ccpay_0038
+2024-03-11,OBP_OUT,VISA-TD payment,-292.17,CAD,ws_cheque,2024-03-11 10:00:00,wc_ccpay_0039
+2024-04-12,OBP_OUT,VISA-TORONTO DOMINION payment,-1564.66,CAD,ws_cheque,2024-04-12 10:00:00,wc_ccpay_0040
+2024-05-13,OBP_OUT,VISA-SCOTIABANK payment,-1686.73,CAD,ws_cheque,2024-05-13 10:00:00,wc_ccpay_0041
+2024-06-14,OBP_OUT,SCOTIALINE payment,-1779.0,CAD,ws_cheque,2024-06-14 10:00:00,wc_ccpay_0042
+2024-07-15,OBP_OUT,VISA-TD payment,-171.72,CAD,ws_cheque,2024-07-15 10:00:00,wc_ccpay_0043
+2024-08-16,OBP_OUT,VISA-TORONTO DOMINION payment,-739.85,CAD,ws_cheque,2024-08-16 10:00:00,wc_ccpay_0044
+2024-09-17,OBP_OUT,VISA-SCOTIABANK payment,-1555.98,CAD,ws_cheque,2024-09-17 10:00:00,wc_ccpay_0045
+2024-10-18,OBP_OUT,SCOTIALINE payment,-348.99,CAD,ws_cheque,2024-10-18 10:00:00,wc_ccpay_0046
+2024-11-19,OBP_OUT,VISA-TD payment,-815.77,CAD,ws_cheque,2024-11-19 10:00:00,wc_ccpay_0047
+2024-12-20,OBP_OUT,VISA-TORONTO DOMINION payment,-408.27,CAD,ws_cheque,2024-12-20 10:00:00,wc_ccpay_0048
+2024-01-21,OBP_OUT,VISA-SCOTIABANK payment,-1679.56,CAD,ws_cheque,2024-01-21 10:00:00,wc_ccpay_0049
+2024-02-22,OBP_OUT,SCOTIALINE payment,-1565.09,CAD,ws_cheque,2024-02-22 10:00:00,wc_ccpay_0050
+2024-03-23,OBP_OUT,VISA-TD payment,-1637.18,CAD,ws_cheque,2024-03-23 10:00:00,wc_ccpay_0051
+2024-04-24,OBP_OUT,VISA-TORONTO DOMINION payment,-414.52,CAD,ws_cheque,2024-04-24 10:00:00,wc_ccpay_0052
+2024-05-25,OBP_OUT,VISA-SCOTIABANK payment,-931.58,CAD,ws_cheque,2024-05-25 10:00:00,wc_ccpay_0053
+2024-06-26,OBP_OUT,SCOTIALINE payment,-880.63,CAD,ws_cheque,2024-06-26 10:00:00,wc_ccpay_0054
+2024-07-27,OBP_OUT,VISA-TD payment,-1385.09,CAD,ws_cheque,2024-07-27 10:00:00,wc_ccpay_0055
+2024-08-28,OBP_OUT,VISA-TORONTO DOMINION payment,-551.31,CAD,ws_cheque,2024-08-28 10:00:00,wc_ccpay_0056
+2024-09-01,OBP_OUT,VISA-SCOTIABANK payment,-943.98,CAD,ws_cheque,2024-09-01 10:00:00,wc_ccpay_0057
+2024-10-02,OBP_OUT,SCOTIALINE payment,-641.36,CAD,ws_cheque,2024-10-02 10:00:00,wc_ccpay_0058
+2024-11-03,OBP_OUT,VISA-TD payment,-1522.22,CAD,ws_cheque,2024-11-03 10:00:00,wc_ccpay_0059
+2024-12-04,OBP_OUT,VISA-TORONTO DOMINION payment,-952.96,CAD,ws_cheque,2024-12-04 10:00:00,wc_ccpay_0060
+2024-01-05,OBP_OUT,VISA-SCOTIABANK payment,-1114.62,CAD,ws_cheque,2024-01-05 10:00:00,wc_ccpay_0061
+2024-02-06,OBP_OUT,SCOTIALINE payment,-687.99,CAD,ws_cheque,2024-02-06 10:00:00,wc_ccpay_0062
+2024-03-07,OBP_OUT,VISA-TD payment,-1636.39,CAD,ws_cheque,2024-03-07 10:00:00,wc_ccpay_0063
+2024-04-08,OBP_OUT,VISA-TORONTO DOMINION payment,-991.13,CAD,ws_cheque,2024-04-08 10:00:00,wc_ccpay_0064
+2024-05-09,OBP_OUT,VISA-SCOTIABANK payment,-1686.72,CAD,ws_cheque,2024-05-09 10:00:00,wc_ccpay_0065
+2024-06-10,OBP_OUT,SCOTIALINE payment,-798.9,CAD,ws_cheque,2024-06-10 10:00:00,wc_ccpay_0066
+2024-07-11,OBP_OUT,VISA-TD payment,-1899.55,CAD,ws_cheque,2024-07-11 10:00:00,wc_ccpay_0067
+2024-08-12,OBP_OUT,VISA-TORONTO DOMINION payment,-1970.44,CAD,ws_cheque,2024-08-12 10:00:00,wc_ccpay_0068
+2024-09-13,OBP_OUT,VISA-SCOTIABANK payment,-977.19,CAD,ws_cheque,2024-09-13 10:00:00,wc_ccpay_0069
+2024-10-14,OBP_OUT,SCOTIALINE payment,-635.37,CAD,ws_cheque,2024-10-14 10:00:00,wc_ccpay_0070
+2024-11-15,OBP_OUT,VISA-TD payment,-825.56,CAD,ws_cheque,2024-11-15 10:00:00,wc_ccpay_0071
+2024-12-16,OBP_OUT,VISA-TORONTO DOMINION payment,-1102.17,CAD,ws_cheque,2024-12-16 10:00:00,wc_ccpay_0072
+2024-01-17,OBP_OUT,VISA-SCOTIABANK payment,-1935.91,CAD,ws_cheque,2024-01-17 10:00:00,wc_ccpay_0073
+2024-02-18,OBP_OUT,SCOTIALINE payment,-1652.09,CAD,ws_cheque,2024-02-18 10:00:00,wc_ccpay_0074
+2024-03-19,OBP_OUT,VISA-TD payment,-1622.39,CAD,ws_cheque,2024-03-19 10:00:00,wc_ccpay_0075
+2024-04-20,OBP_OUT,VISA-TORONTO DOMINION payment,-362.96,CAD,ws_cheque,2024-04-20 10:00:00,wc_ccpay_0076
+2024-05-21,OBP_OUT,VISA-SCOTIABANK payment,-575.01,CAD,ws_cheque,2024-05-21 10:00:00,wc_ccpay_0077
+2024-06-22,OBP_OUT,SCOTIALINE payment,-1318.24,CAD,ws_cheque,2024-06-22 10:00:00,wc_ccpay_0078
+2024-07-23,OBP_OUT,VISA-TD payment,-1760.82,CAD,ws_cheque,2024-07-23 10:00:00,wc_ccpay_0079
+2024-08-24,OBP_OUT,VISA-TORONTO DOMINION payment,-1153.63,CAD,ws_cheque,2024-08-24 10:00:00,wc_ccpay_0080
+2024-01-01,AFT_OUT,telus mobility,-69.24,CAD,ws_cheque,2024-01-01 10:00:00,wc_recur_0001
+2024-02-02,AFT_OUT,shaw communications,-426.03,CAD,ws_cheque,2024-02-02 10:00:00,wc_recur_0002
+2024-03-03,AFT_OUT,roger wireless,-428.56,CAD,ws_cheque,2024-03-03 10:00:00,wc_recur_0003
+2024-04-04,AFT_OUT,public mobile,-156.83,CAD,ws_cheque,2024-04-04 10:00:00,wc_recur_0004
+2024-05-05,AFT_OUT,lucky mobile,-386.3,CAD,ws_cheque,2024-05-05 10:00:00,wc_recur_0005
+2024-06-06,AFT_OUT,epcor utilities,-150.94,CAD,ws_cheque,2024-06-06 10:00:00,wc_recur_0006
+2024-07-07,AFT_OUT,canwise payments,-454.55,CAD,ws_cheque,2024-07-07 10:00:00,wc_recur_0007
+2024-08-08,AFT_OUT,coe edmtaxes,-90.73,CAD,ws_cheque,2024-08-08 10:00:00,wc_recur_0008
+2024-09-09,AFT_OUT,wre property management,-229.99,CAD,ws_cheque,2024-09-09 10:00:00,wc_recur_0009
+2024-10-10,AFT_OUT,telus mobility,-474.28,CAD,ws_cheque,2024-10-10 10:00:00,wc_recur_0010
+2024-11-11,AFT_OUT,shaw communications,-126.58,CAD,ws_cheque,2024-11-11 10:00:00,wc_recur_0011
+2024-12-12,AFT_OUT,roger wireless,-236.54,CAD,ws_cheque,2024-12-12 10:00:00,wc_recur_0012
+2024-01-13,AFT_OUT,public mobile,-187.8,CAD,ws_cheque,2024-01-13 10:00:00,wc_recur_0013
+2024-02-14,AFT_OUT,lucky mobile,-32.8,CAD,ws_cheque,2024-02-14 10:00:00,wc_recur_0014
+2024-03-15,AFT_OUT,epcor utilities,-45.56,CAD,ws_cheque,2024-03-15 10:00:00,wc_recur_0015
+2024-04-16,AFT_OUT,canwise payments,-260.96,CAD,ws_cheque,2024-04-16 10:00:00,wc_recur_0016
+2024-05-17,AFT_OUT,coe edmtaxes,-133.17,CAD,ws_cheque,2024-05-17 10:00:00,wc_recur_0017
+2024-06-18,AFT_OUT,wre property management,-497.37,CAD,ws_cheque,2024-06-18 10:00:00,wc_recur_0018
+2024-07-19,AFT_OUT,telus mobility,-199.96,CAD,ws_cheque,2024-07-19 10:00:00,wc_recur_0019
+2024-08-20,AFT_OUT,shaw communications,-33.53,CAD,ws_cheque,2024-08-20 10:00:00,wc_recur_0020
+2024-09-21,AFT_OUT,roger wireless,-466.8,CAD,ws_cheque,2024-09-21 10:00:00,wc_recur_0021
+2024-10-22,AFT_OUT,public mobile,-422.8,CAD,ws_cheque,2024-10-22 10:00:00,wc_recur_0022
+2024-11-23,AFT_OUT,lucky mobile,-331.98,CAD,ws_cheque,2024-11-23 10:00:00,wc_recur_0023
+2024-12-24,AFT_OUT,epcor utilities,-399.86,CAD,ws_cheque,2024-12-24 10:00:00,wc_recur_0024
+2024-01-25,AFT_OUT,canwise payments,-86.05,CAD,ws_cheque,2024-01-25 10:00:00,wc_recur_0025
+2024-02-26,AFT_OUT,coe edmtaxes,-157.7,CAD,ws_cheque,2024-02-26 10:00:00,wc_recur_0026
+2024-03-27,AFT_OUT,wre property management,-418.29,CAD,ws_cheque,2024-03-27 10:00:00,wc_recur_0027
+2024-04-28,AFT_OUT,telus mobility,-354.11,CAD,ws_cheque,2024-04-28 10:00:00,wc_recur_0028
+2024-05-01,AFT_OUT,shaw communications,-86.62,CAD,ws_cheque,2024-05-01 10:00:00,wc_recur_0029
+2024-06-02,AFT_OUT,roger wireless,-358.66,CAD,ws_cheque,2024-06-02 10:00:00,wc_recur_0030
+2024-07-03,AFT_OUT,public mobile,-235.33,CAD,ws_cheque,2024-07-03 10:00:00,wc_recur_0031
+2024-08-04,AFT_OUT,lucky mobile,-22.52,CAD,ws_cheque,2024-08-04 10:00:00,wc_recur_0032
+2024-09-05,AFT_OUT,epcor utilities,-58.03,CAD,ws_cheque,2024-09-05 10:00:00,wc_recur_0033
+2024-10-06,AFT_OUT,canwise payments,-142.84,CAD,ws_cheque,2024-10-06 10:00:00,wc_recur_0034
+2024-11-07,AFT_OUT,coe edmtaxes,-420.78,CAD,ws_cheque,2024-11-07 10:00:00,wc_recur_0035
+2024-12-08,AFT_OUT,wre property management,-283.43,CAD,ws_cheque,2024-12-08 10:00:00,wc_recur_0036
+2024-01-09,AFT_OUT,telus mobility,-369.07,CAD,ws_cheque,2024-01-09 10:00:00,wc_recur_0037
+2024-02-10,AFT_OUT,shaw communications,-273.33,CAD,ws_cheque,2024-02-10 10:00:00,wc_recur_0038
+2024-03-11,AFT_OUT,roger wireless,-73.37,CAD,ws_cheque,2024-03-11 10:00:00,wc_recur_0039
+2024-04-12,AFT_OUT,public mobile,-158.29,CAD,ws_cheque,2024-04-12 10:00:00,wc_recur_0040
+2024-05-13,AFT_OUT,lucky mobile,-164.55,CAD,ws_cheque,2024-05-13 10:00:00,wc_recur_0041
+2024-06-14,AFT_OUT,epcor utilities,-42.92,CAD,ws_cheque,2024-06-14 10:00:00,wc_recur_0042
+2024-07-15,AFT_OUT,canwise payments,-221.52,CAD,ws_cheque,2024-07-15 10:00:00,wc_recur_0043
+2024-08-16,AFT_OUT,coe edmtaxes,-401.07,CAD,ws_cheque,2024-08-16 10:00:00,wc_recur_0044
+2024-09-17,AFT_OUT,wre property management,-239.41,CAD,ws_cheque,2024-09-17 10:00:00,wc_recur_0045
+2024-10-18,AFT_OUT,telus mobility,-73.21,CAD,ws_cheque,2024-10-18 10:00:00,wc_recur_0046
+2024-11-19,AFT_OUT,shaw communications,-454.47,CAD,ws_cheque,2024-11-19 10:00:00,wc_recur_0047
+2024-12-20,AFT_OUT,roger wireless,-306.43,CAD,ws_cheque,2024-12-20 10:00:00,wc_recur_0048
+2024-01-21,AFT_OUT,public mobile,-27.89,CAD,ws_cheque,2024-01-21 10:00:00,wc_recur_0049
+2024-02-22,AFT_OUT,lucky mobile,-267.38,CAD,ws_cheque,2024-02-22 10:00:00,wc_recur_0050
+2024-03-23,AFT_OUT,epcor utilities,-136.13,CAD,ws_cheque,2024-03-23 10:00:00,wc_recur_0051
+2024-04-24,AFT_OUT,canwise payments,-88.92,CAD,ws_cheque,2024-04-24 10:00:00,wc_recur_0052
+2024-05-25,AFT_OUT,coe edmtaxes,-226.03,CAD,ws_cheque,2024-05-25 10:00:00,wc_recur_0053
+2024-06-26,AFT_OUT,wre property management,-315.11,CAD,ws_cheque,2024-06-26 10:00:00,wc_recur_0054
+2024-07-27,AFT_OUT,telus mobility,-135.47,CAD,ws_cheque,2024-07-27 10:00:00,wc_recur_0055
+2024-08-28,AFT_OUT,shaw communications,-219.95,CAD,ws_cheque,2024-08-28 10:00:00,wc_recur_0056
+2024-09-01,AFT_OUT,roger wireless,-338.9,CAD,ws_cheque,2024-09-01 10:00:00,wc_recur_0057
+2024-10-02,AFT_OUT,public mobile,-61.09,CAD,ws_cheque,2024-10-02 10:00:00,wc_recur_0058
+2024-11-03,AFT_OUT,lucky mobile,-487.83,CAD,ws_cheque,2024-11-03 10:00:00,wc_recur_0059
+2024-12-04,AFT_OUT,epcor utilities,-52.49,CAD,ws_cheque,2024-12-04 10:00:00,wc_recur_0060
+2024-01-05,AFT_OUT,canwise payments,-272.51,CAD,ws_cheque,2024-01-05 10:00:00,wc_recur_0061
+2024-02-06,AFT_OUT,coe edmtaxes,-263.52,CAD,ws_cheque,2024-02-06 10:00:00,wc_recur_0062
+2024-03-07,AFT_OUT,wre property management,-494.4,CAD,ws_cheque,2024-03-07 10:00:00,wc_recur_0063
+2024-04-08,AFT_OUT,telus mobility,-285.99,CAD,ws_cheque,2024-04-08 10:00:00,wc_recur_0064
+2024-05-09,AFT_OUT,shaw communications,-207.42,CAD,ws_cheque,2024-05-09 10:00:00,wc_recur_0065
+2024-06-10,AFT_OUT,roger wireless,-245.66,CAD,ws_cheque,2024-06-10 10:00:00,wc_recur_0066
+2024-07-11,AFT_OUT,public mobile,-325.12,CAD,ws_cheque,2024-07-11 10:00:00,wc_recur_0067
+2024-08-12,AFT_OUT,lucky mobile,-490.9,CAD,ws_cheque,2024-08-12 10:00:00,wc_recur_0068
+2024-09-13,AFT_OUT,epcor utilities,-141.75,CAD,ws_cheque,2024-09-13 10:00:00,wc_recur_0069
+2024-10-14,AFT_OUT,canwise payments,-27.8,CAD,ws_cheque,2024-10-14 10:00:00,wc_recur_0070
+2024-01-01,AFT_OUT,transfer out to savings,-809.67,CAD,ws_cheque,2024-01-01 10:00:00,wc_tfout_0001
+2024-02-02,AFT_OUT,transfer out to savings,-410.32,CAD,ws_cheque,2024-02-02 10:00:00,wc_tfout_0002
+2024-03-03,AFT_OUT,transfer out to savings,-759.65,CAD,ws_cheque,2024-03-03 10:00:00,wc_tfout_0003
+2024-04-04,AFT_OUT,transfer out to savings,-665.43,CAD,ws_cheque,2024-04-04 10:00:00,wc_tfout_0004
+2024-05-05,AFT_OUT,transfer out to savings,-794.35,CAD,ws_cheque,2024-05-05 10:00:00,wc_tfout_0005
+2024-06-06,AFT_OUT,transfer out to savings,-761.67,CAD,ws_cheque,2024-06-06 10:00:00,wc_tfout_0006
+2024-07-07,AFT_OUT,transfer out to savings,-399.27,CAD,ws_cheque,2024-07-07 10:00:00,wc_tfout_0007
+2024-08-08,AFT_OUT,transfer out to savings,-139.9,CAD,ws_cheque,2024-08-08 10:00:00,wc_tfout_0008
+2024-09-09,AFT_OUT,transfer out to savings,-591.41,CAD,ws_cheque,2024-09-09 10:00:00,wc_tfout_0009
+2024-10-10,AFT_OUT,transfer out to savings,-832.16,CAD,ws_cheque,2024-10-10 10:00:00,wc_tfout_0010
+2024-11-11,AFT_OUT,transfer out to savings,-257.58,CAD,ws_cheque,2024-11-11 10:00:00,wc_tfout_0011
+2024-12-12,AFT_OUT,transfer out to savings,-801.23,CAD,ws_cheque,2024-12-12 10:00:00,wc_tfout_0012
+2024-01-13,AFT_OUT,transfer out to savings,-518.16,CAD,ws_cheque,2024-01-13 10:00:00,wc_tfout_0013
+2024-02-14,AFT_OUT,transfer out to savings,-725.85,CAD,ws_cheque,2024-02-14 10:00:00,wc_tfout_0014
+2024-03-15,AFT_OUT,transfer out to savings,-668.56,CAD,ws_cheque,2024-03-15 10:00:00,wc_tfout_0015
+2024-04-16,AFT_OUT,transfer out to savings,-830.35,CAD,ws_cheque,2024-04-16 10:00:00,wc_tfout_0016
+2024-05-17,AFT_OUT,transfer out to savings,-156.79,CAD,ws_cheque,2024-05-17 10:00:00,wc_tfout_0017
+2024-06-18,AFT_OUT,transfer out to savings,-798.57,CAD,ws_cheque,2024-06-18 10:00:00,wc_tfout_0018
+2024-07-19,AFT_OUT,transfer out to savings,-511.91,CAD,ws_cheque,2024-07-19 10:00:00,wc_tfout_0019
+2024-08-20,AFT_OUT,transfer out to savings,-364.1,CAD,ws_cheque,2024-08-20 10:00:00,wc_tfout_0020
+2024-09-21,AFT_OUT,transfer out to savings,-139.43,CAD,ws_cheque,2024-09-21 10:00:00,wc_tfout_0021
+2024-10-22,AFT_OUT,transfer out to savings,-279.52,CAD,ws_cheque,2024-10-22 10:00:00,wc_tfout_0022
+2024-11-23,AFT_OUT,transfer out to savings,-137.72,CAD,ws_cheque,2024-11-23 10:00:00,wc_tfout_0023
+2024-12-24,AFT_OUT,transfer out to savings,-940.03,CAD,ws_cheque,2024-12-24 10:00:00,wc_tfout_0024
+2024-01-25,AFT_OUT,transfer out to savings,-563.85,CAD,ws_cheque,2024-01-25 10:00:00,wc_tfout_0025
+2024-02-26,AFT_OUT,transfer out to savings,-990.21,CAD,ws_cheque,2024-02-26 10:00:00,wc_tfout_0026
+2024-03-27,AFT_OUT,transfer out to savings,-588.73,CAD,ws_cheque,2024-03-27 10:00:00,wc_tfout_0027
+2024-04-28,AFT_OUT,transfer out to savings,-327.98,CAD,ws_cheque,2024-04-28 10:00:00,wc_tfout_0028
+2024-05-01,AFT_OUT,transfer out to savings,-777.96,CAD,ws_cheque,2024-05-01 10:00:00,wc_tfout_0029
+2024-06-02,AFT_OUT,transfer out to savings,-271.99,CAD,ws_cheque,2024-06-02 10:00:00,wc_tfout_0030
+2024-07-03,AFT_OUT,transfer out to savings,-421.28,CAD,ws_cheque,2024-07-03 10:00:00,wc_tfout_0031
+2024-08-04,AFT_OUT,transfer out to savings,-802.76,CAD,ws_cheque,2024-08-04 10:00:00,wc_tfout_0032
+2024-09-05,AFT_OUT,transfer out to savings,-879.22,CAD,ws_cheque,2024-09-05 10:00:00,wc_tfout_0033
+2024-10-06,AFT_OUT,transfer out to savings,-398.73,CAD,ws_cheque,2024-10-06 10:00:00,wc_tfout_0034
+2024-11-07,AFT_OUT,transfer out to savings,-212.03,CAD,ws_cheque,2024-11-07 10:00:00,wc_tfout_0035
+2024-12-08,AFT_OUT,transfer out to savings,-431.22,CAD,ws_cheque,2024-12-08 10:00:00,wc_tfout_0036
+2024-01-09,AFT_OUT,transfer out to savings,-900.54,CAD,ws_cheque,2024-01-09 10:00:00,wc_tfout_0037
+2024-02-10,AFT_OUT,transfer out to savings,-768.98,CAD,ws_cheque,2024-02-10 10:00:00,wc_tfout_0038
+2024-03-11,AFT_OUT,transfer out to savings,-905.17,CAD,ws_cheque,2024-03-11 10:00:00,wc_tfout_0039
+2024-04-12,AFT_OUT,transfer out to savings,-447.98,CAD,ws_cheque,2024-04-12 10:00:00,wc_tfout_0040
+2024-05-13,AFT_OUT,transfer out to savings,-976.35,CAD,ws_cheque,2024-05-13 10:00:00,wc_tfout_0041
+2024-06-14,AFT_OUT,transfer out to savings,-546.58,CAD,ws_cheque,2024-06-14 10:00:00,wc_tfout_0042
+2024-07-15,AFT_OUT,transfer out to savings,-547.77,CAD,ws_cheque,2024-07-15 10:00:00,wc_tfout_0043
+2024-08-16,AFT_OUT,transfer out to savings,-931.88,CAD,ws_cheque,2024-08-16 10:00:00,wc_tfout_0044
+2024-09-17,AFT_OUT,transfer out to savings,-567.35,CAD,ws_cheque,2024-09-17 10:00:00,wc_tfout_0045
+2024-10-18,AFT_OUT,transfer out to savings,-821.03,CAD,ws_cheque,2024-10-18 10:00:00,wc_tfout_0046
+2024-11-19,AFT_OUT,transfer out to savings,-754.37,CAD,ws_cheque,2024-11-19 10:00:00,wc_tfout_0047
+2024-12-20,AFT_OUT,transfer out to savings,-171.03,CAD,ws_cheque,2024-12-20 10:00:00,wc_tfout_0048
+2024-01-21,AFT_OUT,transfer out to savings,-642.21,CAD,ws_cheque,2024-01-21 10:00:00,wc_tfout_0049
+2024-02-22,AFT_OUT,transfer out to savings,-840.11,CAD,ws_cheque,2024-02-22 10:00:00,wc_tfout_0050
+2024-03-23,AFT_OUT,transfer out to savings,-590.93,CAD,ws_cheque,2024-03-23 10:00:00,wc_tfout_0051
+2024-04-24,AFT_OUT,transfer out to savings,-389.09,CAD,ws_cheque,2024-04-24 10:00:00,wc_tfout_0052
+2024-05-25,AFT_OUT,transfer out to savings,-172.06,CAD,ws_cheque,2024-05-25 10:00:00,wc_tfout_0053
+2024-06-26,AFT_OUT,transfer out to savings,-694.83,CAD,ws_cheque,2024-06-26 10:00:00,wc_tfout_0054
+2024-07-27,AFT_OUT,transfer out to savings,-375.85,CAD,ws_cheque,2024-07-27 10:00:00,wc_tfout_0055
+2024-08-28,AFT_OUT,transfer out to savings,-642.36,CAD,ws_cheque,2024-08-28 10:00:00,wc_tfout_0056
+2024-09-01,AFT_OUT,transfer out to savings,-483.5,CAD,ws_cheque,2024-09-01 10:00:00,wc_tfout_0057
+2024-10-02,AFT_OUT,transfer out to savings,-720.79,CAD,ws_cheque,2024-10-02 10:00:00,wc_tfout_0058
+2024-11-03,AFT_OUT,transfer out to savings,-416.39,CAD,ws_cheque,2024-11-03 10:00:00,wc_tfout_0059
+2024-12-04,AFT_OUT,transfer out to savings,-138.12,CAD,ws_cheque,2024-12-04 10:00:00,wc_tfout_0060
+2024-01-05,AFT_OUT,transfer out to savings,-883.03,CAD,ws_cheque,2024-01-05 10:00:00,wc_tfout_0061
+2024-02-06,AFT_OUT,transfer out to savings,-417.3,CAD,ws_cheque,2024-02-06 10:00:00,wc_tfout_0062
+2024-03-07,AFT_OUT,transfer out to savings,-998.34,CAD,ws_cheque,2024-03-07 10:00:00,wc_tfout_0063
+2024-04-08,AFT_OUT,transfer out to savings,-347.1,CAD,ws_cheque,2024-04-08 10:00:00,wc_tfout_0064
+2024-05-09,AFT_OUT,transfer out to savings,-982.02,CAD,ws_cheque,2024-05-09 10:00:00,wc_tfout_0065
+2024-06-10,AFT_OUT,transfer out to savings,-953.11,CAD,ws_cheque,2024-06-10 10:00:00,wc_tfout_0066
+2024-07-11,AFT_OUT,transfer out to savings,-167.54,CAD,ws_cheque,2024-07-11 10:00:00,wc_tfout_0067
+2024-08-12,AFT_OUT,transfer out to savings,-673.76,CAD,ws_cheque,2024-08-12 10:00:00,wc_tfout_0068
+2024-09-13,AFT_OUT,transfer out to savings,-426.98,CAD,ws_cheque,2024-09-13 10:00:00,wc_tfout_0069
+2024-10-14,AFT_OUT,transfer out to savings,-820.99,CAD,ws_cheque,2024-10-14 10:00:00,wc_tfout_0070

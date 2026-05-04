@@ -1,0 +1,501 @@
+Date,Description,Amount,Type of Transaction,source_name,load_timestamp,transaction_id
+2024-01-01,amazon.ca*123,313.02,debit,scotia_cc,2024-01-01 10:00:00,sc_0001
+2024-02-02,amzn*456,18.35,debit,scotia_cc,2024-02-02 10:00:00,sc_0002
+2024-03-03,amazon marketplace,200.04,debit,scotia_cc,2024-03-03 10:00:00,sc_0003
+2024-04-04,temu#789,284.37,debit,scotia_cc,2024-04-04 10:00:00,sc_0004
+2024-05-05,temu online,18.42,debit,scotia_cc,2024-05-05 10:00:00,sc_0005
+2024-06-06,walmart#101,323.16,debit,scotia_cc,2024-06-06 10:00:00,sc_0006
+2024-07-07,wal-mart202,72.17,debit,scotia_cc,2024-07-07 10:00:00,sc_0007
+2024-08-08,shein*333,233.54,debit,scotia_cc,2024-08-08 10:00:00,sc_0008
+2024-09-09,shein online,29.89,debit,scotia_cc,2024-09-09 10:00:00,sc_0009
+2024-10-10,costco wholesale*111,192.66,debit,scotia_cc,2024-10-10 10:00:00,sc_0010
+2024-11-11,tim hortons#222,109.77,debit,scotia_cc,2024-11-11 10:00:00,sc_0011
+2024-12-12,starbucks_333,166.79,debit,scotia_cc,2024-12-12 10:00:00,sc_0012
+2024-01-13,uber eats*444,381.81,debit,scotia_cc,2024-01-13 10:00:00,sc_0013
+2024-02-14,doordash#555,192.67,debit,scotia_cc,2024-02-14 10:00:00,sc_0014
+2024-03-15,safeway_666,377.24,debit,scotia_cc,2024-03-15 10:00:00,sc_0015
+2024-04-16,target*777,416.8,debit,scotia_cc,2024-04-16 10:00:00,sc_0016
+2024-05-17,best buy#888,129.87,debit,scotia_cc,2024-05-17 10:00:00,sc_0017
+2024-06-18,staples_999,45.54,debit,scotia_cc,2024-06-18 10:00:00,sc_0018
+2024-07-19,homer depot*000,14.59,debit,scotia_cc,2024-07-19 10:00:00,sc_0019
+2024-08-20,ikea#123,272.01,debit,scotia_cc,2024-08-20 10:00:00,sc_0020
+2024-09-21,can tire_456,499.95,debit,scotia_cc,2024-09-21 10:00:00,sc_0021
+2024-10-22,sport chek*789,178.23,debit,scotia_cc,2024-10-22 10:00:00,sc_0022
+2024-11-23,london drugs#012,326.82,debit,scotia_cc,2024-11-23 10:00:00,sc_0023
+2024-12-24,amazon.ca*123,391.71,debit,scotia_cc,2024-12-24 10:00:00,sc_0024
+2024-01-25,amzn*456,327.62,debit,scotia_cc,2024-01-25 10:00:00,sc_0025
+2024-02-26,amazon marketplace,378.35,debit,scotia_cc,2024-02-26 10:00:00,sc_0026
+2024-03-27,temu#789,475.06,debit,scotia_cc,2024-03-27 10:00:00,sc_0027
+2024-04-28,temu online,103.68,debit,scotia_cc,2024-04-28 10:00:00,sc_0028
+2024-05-01,walmart#101,15.09,debit,scotia_cc,2024-05-01 10:00:00,sc_0029
+2024-06-02,wal-mart202,80.43,debit,scotia_cc,2024-06-02 10:00:00,sc_0030
+2024-07-03,shein*333,67.48,debit,scotia_cc,2024-07-03 10:00:00,sc_0031
+2024-08-04,shein online,336.38,debit,scotia_cc,2024-08-04 10:00:00,sc_0032
+2024-09-05,costco wholesale*111,284.16,debit,scotia_cc,2024-09-05 10:00:00,sc_0033
+2024-10-06,tim hortons#222,112.89,debit,scotia_cc,2024-10-06 10:00:00,sc_0034
+2024-11-07,starbucks_333,351.24,debit,scotia_cc,2024-11-07 10:00:00,sc_0035
+2024-12-08,uber eats*444,384.61,debit,scotia_cc,2024-12-08 10:00:00,sc_0036
+2024-01-09,doordash#555,88.06,debit,scotia_cc,2024-01-09 10:00:00,sc_0037
+2024-02-10,safeway_666,305.59,debit,scotia_cc,2024-02-10 10:00:00,sc_0038
+2024-03-11,target*777,375.22,debit,scotia_cc,2024-03-11 10:00:00,sc_0039
+2024-04-12,best buy#888,61.69,debit,scotia_cc,2024-04-12 10:00:00,sc_0040
+2024-05-13,staples_999,410.55,debit,scotia_cc,2024-05-13 10:00:00,sc_0041
+2024-06-14,homer depot*000,482.54,debit,scotia_cc,2024-06-14 10:00:00,sc_0042
+2024-07-15,ikea#123,58.51,debit,scotia_cc,2024-07-15 10:00:00,sc_0043
+2024-08-16,can tire_456,17.71,debit,scotia_cc,2024-08-16 10:00:00,sc_0044
+2024-09-17,sport chek*789,159.42,debit,scotia_cc,2024-09-17 10:00:00,sc_0045
+2024-10-18,london drugs#012,340.29,debit,scotia_cc,2024-10-18 10:00:00,sc_0046
+2024-11-19,amazon.ca*123,479.3,debit,scotia_cc,2024-11-19 10:00:00,sc_0047
+2024-12-20,amzn*456,201.34,debit,scotia_cc,2024-12-20 10:00:00,sc_0048
+2024-01-21,amazon marketplace,358.93,debit,scotia_cc,2024-01-21 10:00:00,sc_0049
+2024-02-22,temu#789,42.62,debit,scotia_cc,2024-02-22 10:00:00,sc_0050
+2024-03-23,temu online,346.85,debit,scotia_cc,2024-03-23 10:00:00,sc_0051
+2024-04-24,walmart#101,315.48,debit,scotia_cc,2024-04-24 10:00:00,sc_0052
+2024-05-25,wal-mart202,55.44,debit,scotia_cc,2024-05-25 10:00:00,sc_0053
+2024-06-26,shein*333,387.38,debit,scotia_cc,2024-06-26 10:00:00,sc_0054
+2024-07-27,shein online,425.9,debit,scotia_cc,2024-07-27 10:00:00,sc_0055
+2024-08-28,costco wholesale*111,302.2,debit,scotia_cc,2024-08-28 10:00:00,sc_0056
+2024-09-01,tim hortons#222,64.92,debit,scotia_cc,2024-09-01 10:00:00,sc_0057
+2024-10-02,starbucks_333,492.0,debit,scotia_cc,2024-10-02 10:00:00,sc_0058
+2024-11-03,uber eats*444,392.4,debit,scotia_cc,2024-11-03 10:00:00,sc_0059
+2024-12-04,doordash#555,176.87,debit,scotia_cc,2024-12-04 10:00:00,sc_0060
+2024-01-05,safeway_666,217.05,debit,scotia_cc,2024-01-05 10:00:00,sc_0061
+2024-02-06,target*777,188.43,debit,scotia_cc,2024-02-06 10:00:00,sc_0062
+2024-03-07,best buy#888,255.45,debit,scotia_cc,2024-03-07 10:00:00,sc_0063
+2024-04-08,staples_999,173.91,debit,scotia_cc,2024-04-08 10:00:00,sc_0064
+2024-05-09,homer depot*000,425.54,debit,scotia_cc,2024-05-09 10:00:00,sc_0065
+2024-06-10,ikea#123,412.05,debit,scotia_cc,2024-06-10 10:00:00,sc_0066
+2024-07-11,can tire_456,57.24,debit,scotia_cc,2024-07-11 10:00:00,sc_0067
+2024-08-12,sport chek*789,480.59,debit,scotia_cc,2024-08-12 10:00:00,sc_0068
+2024-09-13,london drugs#012,319.61,debit,scotia_cc,2024-09-13 10:00:00,sc_0069
+2024-10-14,amazon.ca*123,415.21,debit,scotia_cc,2024-10-14 10:00:00,sc_0070
+2024-11-15,amzn*456,355.12,debit,scotia_cc,2024-11-15 10:00:00,sc_0071
+2024-12-16,amazon marketplace,220.57,debit,scotia_cc,2024-12-16 10:00:00,sc_0072
+2024-01-17,temu#789,368.23,debit,scotia_cc,2024-01-17 10:00:00,sc_0073
+2024-02-18,temu online,482.91,debit,scotia_cc,2024-02-18 10:00:00,sc_0074
+2024-03-19,walmart#101,138.69,debit,scotia_cc,2024-03-19 10:00:00,sc_0075
+2024-04-20,wal-mart202,405.06,debit,scotia_cc,2024-04-20 10:00:00,sc_0076
+2024-05-21,shein*333,271.4,debit,scotia_cc,2024-05-21 10:00:00,sc_0077
+2024-06-22,shein online,244.33,debit,scotia_cc,2024-06-22 10:00:00,sc_0078
+2024-07-23,costco wholesale*111,220.61,debit,scotia_cc,2024-07-23 10:00:00,sc_0079
+2024-08-24,tim hortons#222,366.86,debit,scotia_cc,2024-08-24 10:00:00,sc_0080
+2024-09-25,starbucks_333,137.86,debit,scotia_cc,2024-09-25 10:00:00,sc_0081
+2024-10-26,uber eats*444,426.6,debit,scotia_cc,2024-10-26 10:00:00,sc_0082
+2024-11-27,doordash#555,416.21,debit,scotia_cc,2024-11-27 10:00:00,sc_0083
+2024-12-28,safeway_666,47.9,debit,scotia_cc,2024-12-28 10:00:00,sc_0084
+2024-01-01,target*777,441.41,debit,scotia_cc,2024-01-01 10:00:00,sc_0085
+2024-02-02,best buy#888,125.71,debit,scotia_cc,2024-02-02 10:00:00,sc_0086
+2024-03-03,staples_999,235.03,debit,scotia_cc,2024-03-03 10:00:00,sc_0087
+2024-04-04,homer depot*000,307.11,debit,scotia_cc,2024-04-04 10:00:00,sc_0088
+2024-05-05,ikea#123,192.6,debit,scotia_cc,2024-05-05 10:00:00,sc_0089
+2024-06-06,can tire_456,19.21,debit,scotia_cc,2024-06-06 10:00:00,sc_0090
+2024-07-07,sport chek*789,426.22,debit,scotia_cc,2024-07-07 10:00:00,sc_0091
+2024-08-08,london drugs#012,95.01,debit,scotia_cc,2024-08-08 10:00:00,sc_0092
+2024-09-09,amazon.ca*123,110.0,debit,scotia_cc,2024-09-09 10:00:00,sc_0093
+2024-10-10,amzn*456,399.93,debit,scotia_cc,2024-10-10 10:00:00,sc_0094
+2024-11-11,amazon marketplace,173.47,debit,scotia_cc,2024-11-11 10:00:00,sc_0095
+2024-12-12,temu#789,440.76,debit,scotia_cc,2024-12-12 10:00:00,sc_0096
+2024-01-13,temu online,352.09,debit,scotia_cc,2024-01-13 10:00:00,sc_0097
+2024-02-14,walmart#101,141.75,debit,scotia_cc,2024-02-14 10:00:00,sc_0098
+2024-03-15,wal-mart202,10.02,debit,scotia_cc,2024-03-15 10:00:00,sc_0099
+2024-04-16,shein*333,474.29,debit,scotia_cc,2024-04-16 10:00:00,sc_0100
+2024-05-17,shein online,47.38,debit,scotia_cc,2024-05-17 10:00:00,sc_0101
+2024-06-18,costco wholesale*111,361.44,debit,scotia_cc,2024-06-18 10:00:00,sc_0102
+2024-07-19,tim hortons#222,246.85,debit,scotia_cc,2024-07-19 10:00:00,sc_0103
+2024-08-20,starbucks_333,380.29,debit,scotia_cc,2024-08-20 10:00:00,sc_0104
+2024-09-21,uber eats*444,346.85,debit,scotia_cc,2024-09-21 10:00:00,sc_0105
+2024-10-22,doordash#555,324.72,debit,scotia_cc,2024-10-22 10:00:00,sc_0106
+2024-11-23,safeway_666,247.96,debit,scotia_cc,2024-11-23 10:00:00,sc_0107
+2024-12-24,target*777,397.5,debit,scotia_cc,2024-12-24 10:00:00,sc_0108
+2024-01-25,best buy#888,51.06,debit,scotia_cc,2024-01-25 10:00:00,sc_0109
+2024-02-26,staples_999,114.69,debit,scotia_cc,2024-02-26 10:00:00,sc_0110
+2024-03-27,homer depot*000,347.43,debit,scotia_cc,2024-03-27 10:00:00,sc_0111
+2024-04-28,ikea#123,156.57,debit,scotia_cc,2024-04-28 10:00:00,sc_0112
+2024-05-01,can tire_456,292.87,debit,scotia_cc,2024-05-01 10:00:00,sc_0113
+2024-06-02,sport chek*789,239.26,debit,scotia_cc,2024-06-02 10:00:00,sc_0114
+2024-07-03,london drugs#012,267.81,debit,scotia_cc,2024-07-03 10:00:00,sc_0115
+2024-08-04,amazon.ca*123,215.62,debit,scotia_cc,2024-08-04 10:00:00,sc_0116
+2024-09-05,amzn*456,374.24,debit,scotia_cc,2024-09-05 10:00:00,sc_0117
+2024-10-06,amazon marketplace,168.74,debit,scotia_cc,2024-10-06 10:00:00,sc_0118
+2024-11-07,temu#789,352.91,debit,scotia_cc,2024-11-07 10:00:00,sc_0119
+2024-12-08,temu online,139.1,debit,scotia_cc,2024-12-08 10:00:00,sc_0120
+2024-01-09,walmart#101,129.44,debit,scotia_cc,2024-01-09 10:00:00,sc_0121
+2024-02-10,wal-mart202,64.72,debit,scotia_cc,2024-02-10 10:00:00,sc_0122
+2024-03-11,shein*333,100.33,debit,scotia_cc,2024-03-11 10:00:00,sc_0123
+2024-04-12,shein online,64.18,debit,scotia_cc,2024-04-12 10:00:00,sc_0124
+2024-05-13,costco wholesale*111,270.25,debit,scotia_cc,2024-05-13 10:00:00,sc_0125
+2024-06-14,tim hortons#222,382.28,debit,scotia_cc,2024-06-14 10:00:00,sc_0126
+2024-07-15,starbucks_333,96.65,debit,scotia_cc,2024-07-15 10:00:00,sc_0127
+2024-08-16,uber eats*444,112.11,debit,scotia_cc,2024-08-16 10:00:00,sc_0128
+2024-09-17,doordash#555,244.68,debit,scotia_cc,2024-09-17 10:00:00,sc_0129
+2024-10-18,safeway_666,363.67,debit,scotia_cc,2024-10-18 10:00:00,sc_0130
+2024-11-19,target*777,488.42,debit,scotia_cc,2024-11-19 10:00:00,sc_0131
+2024-12-20,best buy#888,264.7,debit,scotia_cc,2024-12-20 10:00:00,sc_0132
+2024-01-21,staples_999,145.08,debit,scotia_cc,2024-01-21 10:00:00,sc_0133
+2024-02-22,homer depot*000,54.76,debit,scotia_cc,2024-02-22 10:00:00,sc_0134
+2024-03-23,ikea#123,101.09,debit,scotia_cc,2024-03-23 10:00:00,sc_0135
+2024-04-24,can tire_456,117.6,debit,scotia_cc,2024-04-24 10:00:00,sc_0136
+2024-05-25,sport chek*789,93.82,debit,scotia_cc,2024-05-25 10:00:00,sc_0137
+2024-06-26,london drugs#012,12.0,debit,scotia_cc,2024-06-26 10:00:00,sc_0138
+2024-07-27,amazon.ca*123,269.4,debit,scotia_cc,2024-07-27 10:00:00,sc_0139
+2024-08-28,amzn*456,140.78,debit,scotia_cc,2024-08-28 10:00:00,sc_0140
+2024-09-01,amazon marketplace,487.28,debit,scotia_cc,2024-09-01 10:00:00,sc_0141
+2024-10-02,temu#789,278.91,debit,scotia_cc,2024-10-02 10:00:00,sc_0142
+2024-11-03,temu online,350.22,debit,scotia_cc,2024-11-03 10:00:00,sc_0143
+2024-12-04,walmart#101,67.51,debit,scotia_cc,2024-12-04 10:00:00,sc_0144
+2024-01-05,wal-mart202,434.89,debit,scotia_cc,2024-01-05 10:00:00,sc_0145
+2024-02-06,shein*333,247.98,debit,scotia_cc,2024-02-06 10:00:00,sc_0146
+2024-03-07,shein online,437.0,debit,scotia_cc,2024-03-07 10:00:00,sc_0147
+2024-04-08,costco wholesale*111,289.16,debit,scotia_cc,2024-04-08 10:00:00,sc_0148
+2024-05-09,tim hortons#222,237.35,debit,scotia_cc,2024-05-09 10:00:00,sc_0149
+2024-06-10,starbucks_333,223.03,debit,scotia_cc,2024-06-10 10:00:00,sc_0150
+2024-07-11,uber eats*444,96.26,debit,scotia_cc,2024-07-11 10:00:00,sc_0151
+2024-08-12,doordash#555,30.43,debit,scotia_cc,2024-08-12 10:00:00,sc_0152
+2024-09-13,safeway_666,470.83,debit,scotia_cc,2024-09-13 10:00:00,sc_0153
+2024-10-14,target*777,241.48,debit,scotia_cc,2024-10-14 10:00:00,sc_0154
+2024-11-15,best buy#888,411.95,debit,scotia_cc,2024-11-15 10:00:00,sc_0155
+2024-12-16,staples_999,203.35,debit,scotia_cc,2024-12-16 10:00:00,sc_0156
+2024-01-17,homer depot*000,41.67,debit,scotia_cc,2024-01-17 10:00:00,sc_0157
+2024-02-18,ikea#123,316.58,debit,scotia_cc,2024-02-18 10:00:00,sc_0158
+2024-03-19,can tire_456,31.54,debit,scotia_cc,2024-03-19 10:00:00,sc_0159
+2024-04-20,sport chek*789,78.85,debit,scotia_cc,2024-04-20 10:00:00,sc_0160
+2024-05-21,london drugs#012,283.61,debit,scotia_cc,2024-05-21 10:00:00,sc_0161
+2024-06-22,amazon.ca*123,155.4,debit,scotia_cc,2024-06-22 10:00:00,sc_0162
+2024-07-23,amzn*456,496.99,debit,scotia_cc,2024-07-23 10:00:00,sc_0163
+2024-08-24,amazon marketplace,63.63,debit,scotia_cc,2024-08-24 10:00:00,sc_0164
+2024-09-25,temu#789,383.4,debit,scotia_cc,2024-09-25 10:00:00,sc_0165
+2024-10-26,temu online,305.13,debit,scotia_cc,2024-10-26 10:00:00,sc_0166
+2024-11-27,walmart#101,396.42,debit,scotia_cc,2024-11-27 10:00:00,sc_0167
+2024-12-28,wal-mart202,116.72,debit,scotia_cc,2024-12-28 10:00:00,sc_0168
+2024-01-01,shein*333,263.67,debit,scotia_cc,2024-01-01 10:00:00,sc_0169
+2024-02-02,shein online,228.0,debit,scotia_cc,2024-02-02 10:00:00,sc_0170
+2024-03-03,costco wholesale*111,224.15,debit,scotia_cc,2024-03-03 10:00:00,sc_0171
+2024-04-04,tim hortons#222,430.78,debit,scotia_cc,2024-04-04 10:00:00,sc_0172
+2024-05-05,starbucks_333,495.07,debit,scotia_cc,2024-05-05 10:00:00,sc_0173
+2024-06-06,uber eats*444,156.16,debit,scotia_cc,2024-06-06 10:00:00,sc_0174
+2024-07-07,doordash#555,312.41,debit,scotia_cc,2024-07-07 10:00:00,sc_0175
+2024-08-08,safeway_666,306.77,debit,scotia_cc,2024-08-08 10:00:00,sc_0176
+2024-09-09,target*777,371.34,debit,scotia_cc,2024-09-09 10:00:00,sc_0177
+2024-10-10,best buy#888,474.06,debit,scotia_cc,2024-10-10 10:00:00,sc_0178
+2024-11-11,staples_999,107.86,debit,scotia_cc,2024-11-11 10:00:00,sc_0179
+2024-12-12,homer depot*000,109.46,debit,scotia_cc,2024-12-12 10:00:00,sc_0180
+2024-01-13,ikea#123,331.91,debit,scotia_cc,2024-01-13 10:00:00,sc_0181
+2024-02-14,can tire_456,82.74,debit,scotia_cc,2024-02-14 10:00:00,sc_0182
+2024-03-15,sport chek*789,91.04,debit,scotia_cc,2024-03-15 10:00:00,sc_0183
+2024-04-16,london drugs#012,42.16,debit,scotia_cc,2024-04-16 10:00:00,sc_0184
+2024-05-17,amazon.ca*123,6.32,debit,scotia_cc,2024-05-17 10:00:00,sc_0185
+2024-06-18,amzn*456,228.0,debit,scotia_cc,2024-06-18 10:00:00,sc_0186
+2024-07-19,amazon marketplace,298.94,debit,scotia_cc,2024-07-19 10:00:00,sc_0187
+2024-08-20,temu#789,149.17,debit,scotia_cc,2024-08-20 10:00:00,sc_0188
+2024-09-21,temu online,119.58,debit,scotia_cc,2024-09-21 10:00:00,sc_0189
+2024-10-22,walmart#101,354.94,debit,scotia_cc,2024-10-22 10:00:00,sc_0190
+2024-11-23,wal-mart202,352.98,debit,scotia_cc,2024-11-23 10:00:00,sc_0191
+2024-12-24,shein*333,229.75,debit,scotia_cc,2024-12-24 10:00:00,sc_0192
+2024-01-25,shein online,345.26,debit,scotia_cc,2024-01-25 10:00:00,sc_0193
+2024-02-26,costco wholesale*111,462.34,debit,scotia_cc,2024-02-26 10:00:00,sc_0194
+2024-03-27,tim hortons#222,394.97,debit,scotia_cc,2024-03-27 10:00:00,sc_0195
+2024-04-28,starbucks_333,314.4,debit,scotia_cc,2024-04-28 10:00:00,sc_0196
+2024-05-01,uber eats*444,332.29,debit,scotia_cc,2024-05-01 10:00:00,sc_0197
+2024-06-02,doordash#555,467.17,debit,scotia_cc,2024-06-02 10:00:00,sc_0198
+2024-07-03,safeway_666,215.44,debit,scotia_cc,2024-07-03 10:00:00,sc_0199
+2024-08-04,target*777,274.56,debit,scotia_cc,2024-08-04 10:00:00,sc_0200
+2024-09-05,best buy#888,325.58,debit,scotia_cc,2024-09-05 10:00:00,sc_0201
+2024-10-06,staples_999,454.66,debit,scotia_cc,2024-10-06 10:00:00,sc_0202
+2024-11-07,homer depot*000,414.18,debit,scotia_cc,2024-11-07 10:00:00,sc_0203
+2024-12-08,ikea#123,40.35,debit,scotia_cc,2024-12-08 10:00:00,sc_0204
+2024-01-09,can tire_456,87.13,debit,scotia_cc,2024-01-09 10:00:00,sc_0205
+2024-02-10,sport chek*789,157.27,debit,scotia_cc,2024-02-10 10:00:00,sc_0206
+2024-03-11,london drugs#012,375.73,debit,scotia_cc,2024-03-11 10:00:00,sc_0207
+2024-04-12,amazon.ca*123,286.76,debit,scotia_cc,2024-04-12 10:00:00,sc_0208
+2024-05-13,amzn*456,147.86,debit,scotia_cc,2024-05-13 10:00:00,sc_0209
+2024-06-14,amazon marketplace,66.56,debit,scotia_cc,2024-06-14 10:00:00,sc_0210
+2024-07-15,temu#789,345.9,debit,scotia_cc,2024-07-15 10:00:00,sc_0211
+2024-08-16,temu online,351.37,debit,scotia_cc,2024-08-16 10:00:00,sc_0212
+2024-09-17,walmart#101,471.62,debit,scotia_cc,2024-09-17 10:00:00,sc_0213
+2024-10-18,wal-mart202,252.73,debit,scotia_cc,2024-10-18 10:00:00,sc_0214
+2024-11-19,shein*333,249.43,debit,scotia_cc,2024-11-19 10:00:00,sc_0215
+2024-12-20,shein online,44.82,debit,scotia_cc,2024-12-20 10:00:00,sc_0216
+2024-01-21,costco wholesale*111,24.73,debit,scotia_cc,2024-01-21 10:00:00,sc_0217
+2024-02-22,tim hortons#222,218.85,debit,scotia_cc,2024-02-22 10:00:00,sc_0218
+2024-03-23,starbucks_333,164.55,debit,scotia_cc,2024-03-23 10:00:00,sc_0219
+2024-04-24,uber eats*444,128.93,debit,scotia_cc,2024-04-24 10:00:00,sc_0220
+2024-05-25,doordash#555,50.21,debit,scotia_cc,2024-05-25 10:00:00,sc_0221
+2024-06-26,safeway_666,481.15,debit,scotia_cc,2024-06-26 10:00:00,sc_0222
+2024-07-27,target*777,418.8,debit,scotia_cc,2024-07-27 10:00:00,sc_0223
+2024-08-28,best buy#888,289.72,debit,scotia_cc,2024-08-28 10:00:00,sc_0224
+2024-09-01,staples_999,475.64,debit,scotia_cc,2024-09-01 10:00:00,sc_0225
+2024-10-02,homer depot*000,499.79,debit,scotia_cc,2024-10-02 10:00:00,sc_0226
+2024-11-03,ikea#123,337.78,debit,scotia_cc,2024-11-03 10:00:00,sc_0227
+2024-12-04,can tire_456,138.41,debit,scotia_cc,2024-12-04 10:00:00,sc_0228
+2024-01-05,sport chek*789,24.91,debit,scotia_cc,2024-01-05 10:00:00,sc_0229
+2024-02-06,london drugs#012,379.35,debit,scotia_cc,2024-02-06 10:00:00,sc_0230
+2024-03-07,amazon.ca*123,237.9,debit,scotia_cc,2024-03-07 10:00:00,sc_0231
+2024-04-08,amzn*456,327.5,debit,scotia_cc,2024-04-08 10:00:00,sc_0232
+2024-05-09,amazon marketplace,458.46,debit,scotia_cc,2024-05-09 10:00:00,sc_0233
+2024-06-10,temu#789,94.84,debit,scotia_cc,2024-06-10 10:00:00,sc_0234
+2024-07-11,temu online,294.74,debit,scotia_cc,2024-07-11 10:00:00,sc_0235
+2024-08-12,walmart#101,319.22,debit,scotia_cc,2024-08-12 10:00:00,sc_0236
+2024-09-13,wal-mart202,248.4,debit,scotia_cc,2024-09-13 10:00:00,sc_0237
+2024-10-14,shein*333,50.16,debit,scotia_cc,2024-10-14 10:00:00,sc_0238
+2024-11-15,shein online,177.24,debit,scotia_cc,2024-11-15 10:00:00,sc_0239
+2024-12-16,costco wholesale*111,169.99,debit,scotia_cc,2024-12-16 10:00:00,sc_0240
+2024-01-17,tim hortons#222,336.72,debit,scotia_cc,2024-01-17 10:00:00,sc_0241
+2024-02-18,starbucks_333,429.58,debit,scotia_cc,2024-02-18 10:00:00,sc_0242
+2024-03-19,uber eats*444,168.25,debit,scotia_cc,2024-03-19 10:00:00,sc_0243
+2024-04-20,doordash#555,348.37,debit,scotia_cc,2024-04-20 10:00:00,sc_0244
+2024-05-21,safeway_666,147.67,debit,scotia_cc,2024-05-21 10:00:00,sc_0245
+2024-06-22,target*777,472.87,debit,scotia_cc,2024-06-22 10:00:00,sc_0246
+2024-07-23,best buy#888,407.72,debit,scotia_cc,2024-07-23 10:00:00,sc_0247
+2024-08-24,staples_999,277.3,debit,scotia_cc,2024-08-24 10:00:00,sc_0248
+2024-09-25,homer depot*000,230.14,debit,scotia_cc,2024-09-25 10:00:00,sc_0249
+2024-10-26,ikea#123,160.69,debit,scotia_cc,2024-10-26 10:00:00,sc_0250
+2024-11-27,can tire_456,165.02,debit,scotia_cc,2024-11-27 10:00:00,sc_0251
+2024-12-28,sport chek*789,485.24,debit,scotia_cc,2024-12-28 10:00:00,sc_0252
+2024-01-01,london drugs#012,205.07,debit,scotia_cc,2024-01-01 10:00:00,sc_0253
+2024-02-02,amazon.ca*123,259.73,debit,scotia_cc,2024-02-02 10:00:00,sc_0254
+2024-03-03,amzn*456,494.12,debit,scotia_cc,2024-03-03 10:00:00,sc_0255
+2024-04-04,amazon marketplace,330.54,debit,scotia_cc,2024-04-04 10:00:00,sc_0256
+2024-05-05,temu#789,273.58,debit,scotia_cc,2024-05-05 10:00:00,sc_0257
+2024-06-06,temu online,209.56,debit,scotia_cc,2024-06-06 10:00:00,sc_0258
+2024-07-07,walmart#101,97.85,debit,scotia_cc,2024-07-07 10:00:00,sc_0259
+2024-08-08,wal-mart202,184.08,debit,scotia_cc,2024-08-08 10:00:00,sc_0260
+2024-09-09,shein*333,379.44,debit,scotia_cc,2024-09-09 10:00:00,sc_0261
+2024-10-10,shein online,314.58,debit,scotia_cc,2024-10-10 10:00:00,sc_0262
+2024-11-11,costco wholesale*111,381.2,debit,scotia_cc,2024-11-11 10:00:00,sc_0263
+2024-12-12,tim hortons#222,105.76,debit,scotia_cc,2024-12-12 10:00:00,sc_0264
+2024-01-13,starbucks_333,276.86,debit,scotia_cc,2024-01-13 10:00:00,sc_0265
+2024-02-14,uber eats*444,464.2,debit,scotia_cc,2024-02-14 10:00:00,sc_0266
+2024-03-15,doordash#555,221.87,debit,scotia_cc,2024-03-15 10:00:00,sc_0267
+2024-04-16,safeway_666,350.63,debit,scotia_cc,2024-04-16 10:00:00,sc_0268
+2024-05-17,target*777,65.11,debit,scotia_cc,2024-05-17 10:00:00,sc_0269
+2024-06-18,best buy#888,486.71,debit,scotia_cc,2024-06-18 10:00:00,sc_0270
+2024-07-19,staples_999,306.39,debit,scotia_cc,2024-07-19 10:00:00,sc_0271
+2024-08-20,homer depot*000,123.45,debit,scotia_cc,2024-08-20 10:00:00,sc_0272
+2024-09-21,ikea#123,83.4,debit,scotia_cc,2024-09-21 10:00:00,sc_0273
+2024-10-22,can tire_456,277.67,debit,scotia_cc,2024-10-22 10:00:00,sc_0274
+2024-11-23,sport chek*789,278.36,debit,scotia_cc,2024-11-23 10:00:00,sc_0275
+2024-12-24,london drugs#012,51.14,debit,scotia_cc,2024-12-24 10:00:00,sc_0276
+2024-01-25,amazon.ca*123,496.17,debit,scotia_cc,2024-01-25 10:00:00,sc_0277
+2024-02-26,amzn*456,456.9,debit,scotia_cc,2024-02-26 10:00:00,sc_0278
+2024-03-27,amazon marketplace,233.42,debit,scotia_cc,2024-03-27 10:00:00,sc_0279
+2024-04-28,temu#789,63.15,debit,scotia_cc,2024-04-28 10:00:00,sc_0280
+2024-05-01,temu online,416.91,debit,scotia_cc,2024-05-01 10:00:00,sc_0281
+2024-06-02,walmart#101,251.7,debit,scotia_cc,2024-06-02 10:00:00,sc_0282
+2024-07-03,wal-mart202,359.72,debit,scotia_cc,2024-07-03 10:00:00,sc_0283
+2024-08-04,shein*333,256.89,debit,scotia_cc,2024-08-04 10:00:00,sc_0284
+2024-09-05,shein online,140.35,debit,scotia_cc,2024-09-05 10:00:00,sc_0285
+2024-10-06,costco wholesale*111,418.19,debit,scotia_cc,2024-10-06 10:00:00,sc_0286
+2024-11-07,tim hortons#222,490.22,debit,scotia_cc,2024-11-07 10:00:00,sc_0287
+2024-12-08,starbucks_333,125.65,debit,scotia_cc,2024-12-08 10:00:00,sc_0288
+2024-01-09,uber eats*444,277.88,debit,scotia_cc,2024-01-09 10:00:00,sc_0289
+2024-02-10,doordash#555,194.88,debit,scotia_cc,2024-02-10 10:00:00,sc_0290
+2024-03-11,safeway_666,461.32,debit,scotia_cc,2024-03-11 10:00:00,sc_0291
+2024-04-12,target*777,256.58,debit,scotia_cc,2024-04-12 10:00:00,sc_0292
+2024-05-13,best buy#888,440.27,debit,scotia_cc,2024-05-13 10:00:00,sc_0293
+2024-06-14,staples_999,432.69,debit,scotia_cc,2024-06-14 10:00:00,sc_0294
+2024-07-15,homer depot*000,141.74,debit,scotia_cc,2024-07-15 10:00:00,sc_0295
+2024-08-16,ikea#123,396.05,debit,scotia_cc,2024-08-16 10:00:00,sc_0296
+2024-09-17,can tire_456,210.4,debit,scotia_cc,2024-09-17 10:00:00,sc_0297
+2024-10-18,sport chek*789,467.45,debit,scotia_cc,2024-10-18 10:00:00,sc_0298
+2024-11-19,london drugs#012,256.33,debit,scotia_cc,2024-11-19 10:00:00,sc_0299
+2024-12-20,amazon.ca*123,411.17,debit,scotia_cc,2024-12-20 10:00:00,sc_0300
+2024-01-21,amzn*456,145.01,debit,scotia_cc,2024-01-21 10:00:00,sc_0301
+2024-02-22,amazon marketplace,152.79,debit,scotia_cc,2024-02-22 10:00:00,sc_0302
+2024-03-23,temu#789,295.53,debit,scotia_cc,2024-03-23 10:00:00,sc_0303
+2024-04-24,temu online,499.46,debit,scotia_cc,2024-04-24 10:00:00,sc_0304
+2024-05-25,walmart#101,247.37,debit,scotia_cc,2024-05-25 10:00:00,sc_0305
+2024-06-26,wal-mart202,78.55,debit,scotia_cc,2024-06-26 10:00:00,sc_0306
+2024-07-27,shein*333,271.6,debit,scotia_cc,2024-07-27 10:00:00,sc_0307
+2024-08-28,shein online,175.84,debit,scotia_cc,2024-08-28 10:00:00,sc_0308
+2024-09-01,costco wholesale*111,278.2,debit,scotia_cc,2024-09-01 10:00:00,sc_0309
+2024-10-02,tim hortons#222,274.0,debit,scotia_cc,2024-10-02 10:00:00,sc_0310
+2024-11-03,starbucks_333,230.4,debit,scotia_cc,2024-11-03 10:00:00,sc_0311
+2024-12-04,uber eats*444,164.28,debit,scotia_cc,2024-12-04 10:00:00,sc_0312
+2024-01-05,doordash#555,98.38,debit,scotia_cc,2024-01-05 10:00:00,sc_0313
+2024-02-06,safeway_666,350.26,debit,scotia_cc,2024-02-06 10:00:00,sc_0314
+2024-03-07,target*777,288.04,debit,scotia_cc,2024-03-07 10:00:00,sc_0315
+2024-04-08,best buy#888,120.61,debit,scotia_cc,2024-04-08 10:00:00,sc_0316
+2024-05-09,staples_999,388.89,debit,scotia_cc,2024-05-09 10:00:00,sc_0317
+2024-06-10,homer depot*000,26.61,debit,scotia_cc,2024-06-10 10:00:00,sc_0318
+2024-07-11,ikea#123,373.63,debit,scotia_cc,2024-07-11 10:00:00,sc_0319
+2024-08-12,can tire_456,354.09,debit,scotia_cc,2024-08-12 10:00:00,sc_0320
+2024-09-13,sport chek*789,406.65,debit,scotia_cc,2024-09-13 10:00:00,sc_0321
+2024-10-14,london drugs#012,196.11,debit,scotia_cc,2024-10-14 10:00:00,sc_0322
+2024-11-15,amazon.ca*123,333.53,debit,scotia_cc,2024-11-15 10:00:00,sc_0323
+2024-12-16,amzn*456,411.27,debit,scotia_cc,2024-12-16 10:00:00,sc_0324
+2024-01-17,amazon marketplace,490.5,debit,scotia_cc,2024-01-17 10:00:00,sc_0325
+2024-02-18,temu#789,250.19,debit,scotia_cc,2024-02-18 10:00:00,sc_0326
+2024-03-19,temu online,23.32,debit,scotia_cc,2024-03-19 10:00:00,sc_0327
+2024-04-20,walmart#101,253.63,debit,scotia_cc,2024-04-20 10:00:00,sc_0328
+2024-05-21,wal-mart202,297.14,debit,scotia_cc,2024-05-21 10:00:00,sc_0329
+2024-06-22,shein*333,435.5,debit,scotia_cc,2024-06-22 10:00:00,sc_0330
+2024-07-23,shein online,437.72,debit,scotia_cc,2024-07-23 10:00:00,sc_0331
+2024-08-24,costco wholesale*111,222.95,debit,scotia_cc,2024-08-24 10:00:00,sc_0332
+2024-09-25,tim hortons#222,265.35,debit,scotia_cc,2024-09-25 10:00:00,sc_0333
+2024-10-26,starbucks_333,231.18,debit,scotia_cc,2024-10-26 10:00:00,sc_0334
+2024-11-27,uber eats*444,362.61,debit,scotia_cc,2024-11-27 10:00:00,sc_0335
+2024-12-28,doordash#555,207.94,debit,scotia_cc,2024-12-28 10:00:00,sc_0336
+2024-01-01,safeway_666,329.12,debit,scotia_cc,2024-01-01 10:00:00,sc_0337
+2024-02-02,target*777,81.41,debit,scotia_cc,2024-02-02 10:00:00,sc_0338
+2024-03-03,best buy#888,237.4,debit,scotia_cc,2024-03-03 10:00:00,sc_0339
+2024-04-04,staples_999,484.76,debit,scotia_cc,2024-04-04 10:00:00,sc_0340
+2024-05-05,homer depot*000,172.59,debit,scotia_cc,2024-05-05 10:00:00,sc_0341
+2024-06-06,ikea#123,347.89,debit,scotia_cc,2024-06-06 10:00:00,sc_0342
+2024-07-07,can tire_456,326.67,debit,scotia_cc,2024-07-07 10:00:00,sc_0343
+2024-08-08,sport chek*789,426.62,debit,scotia_cc,2024-08-08 10:00:00,sc_0344
+2024-09-09,london drugs#012,426.91,debit,scotia_cc,2024-09-09 10:00:00,sc_0345
+2024-10-10,amazon.ca*123,430.37,debit,scotia_cc,2024-10-10 10:00:00,sc_0346
+2024-11-11,amzn*456,193.1,debit,scotia_cc,2024-11-11 10:00:00,sc_0347
+2024-12-12,amazon marketplace,161.75,debit,scotia_cc,2024-12-12 10:00:00,sc_0348
+2024-01-13,temu#789,360.77,debit,scotia_cc,2024-01-13 10:00:00,sc_0349
+2024-02-14,temu online,380.9,debit,scotia_cc,2024-02-14 10:00:00,sc_0350
+2024-01-01,amazon refund,132.13,credit,scotia_cc,2024-01-01 10:00:00,sc_credit_0001
+2024-02-02,target return,15.03,credit,scotia_cc,2024-02-02 10:00:00,sc_credit_0002
+2024-03-03,best buy refund,19.58,credit,scotia_cc,2024-03-03 10:00:00,sc_credit_0003
+2024-04-04,costco rebate,98.36,credit,scotia_cc,2024-04-04 10:00:00,sc_credit_0004
+2024-05-05,amazon refund,138.93,credit,scotia_cc,2024-05-05 10:00:00,sc_credit_0005
+2024-06-06,target return,149.64,credit,scotia_cc,2024-06-06 10:00:00,sc_credit_0006
+2024-07-07,best buy refund,114.55,credit,scotia_cc,2024-07-07 10:00:00,sc_credit_0007
+2024-08-08,costco rebate,70.76,credit,scotia_cc,2024-08-08 10:00:00,sc_credit_0008
+2024-09-09,amazon refund,23.78,credit,scotia_cc,2024-09-09 10:00:00,sc_credit_0009
+2024-10-10,target return,98.72,credit,scotia_cc,2024-10-10 10:00:00,sc_credit_0010
+2024-11-11,best buy refund,132.16,credit,scotia_cc,2024-11-11 10:00:00,sc_credit_0011
+2024-12-12,costco rebate,72.11,credit,scotia_cc,2024-12-12 10:00:00,sc_credit_0012
+2024-01-13,amazon refund,107.16,credit,scotia_cc,2024-01-13 10:00:00,sc_credit_0013
+2024-02-14,target return,136.48,credit,scotia_cc,2024-02-14 10:00:00,sc_credit_0014
+2024-03-15,best buy refund,16.44,credit,scotia_cc,2024-03-15 10:00:00,sc_credit_0015
+2024-04-16,costco rebate,121.46,credit,scotia_cc,2024-04-16 10:00:00,sc_credit_0016
+2024-05-17,amazon refund,51.07,credit,scotia_cc,2024-05-17 10:00:00,sc_credit_0017
+2024-06-18,target return,62.48,credit,scotia_cc,2024-06-18 10:00:00,sc_credit_0018
+2024-07-19,best buy refund,30.38,credit,scotia_cc,2024-07-19 10:00:00,sc_credit_0019
+2024-08-20,costco rebate,84.36,credit,scotia_cc,2024-08-20 10:00:00,sc_credit_0020
+2024-09-21,amazon refund,89.23,credit,scotia_cc,2024-09-21 10:00:00,sc_credit_0021
+2024-10-22,target return,120.95,credit,scotia_cc,2024-10-22 10:00:00,sc_credit_0022
+2024-11-23,best buy refund,33.8,credit,scotia_cc,2024-11-23 10:00:00,sc_credit_0023
+2024-12-24,costco rebate,21.06,credit,scotia_cc,2024-12-24 10:00:00,sc_credit_0024
+2024-01-25,amazon refund,131.92,credit,scotia_cc,2024-01-25 10:00:00,sc_credit_0025
+2024-02-26,target return,96.76,credit,scotia_cc,2024-02-26 10:00:00,sc_credit_0026
+2024-03-27,best buy refund,43.72,credit,scotia_cc,2024-03-27 10:00:00,sc_credit_0027
+2024-04-28,costco rebate,137.8,credit,scotia_cc,2024-04-28 10:00:00,sc_credit_0028
+2024-05-01,amazon refund,30.04,credit,scotia_cc,2024-05-01 10:00:00,sc_credit_0029
+2024-06-02,target return,74.56,credit,scotia_cc,2024-06-02 10:00:00,sc_credit_0030
+2024-07-03,best buy refund,45.56,credit,scotia_cc,2024-07-03 10:00:00,sc_credit_0031
+2024-08-04,costco rebate,45.75,credit,scotia_cc,2024-08-04 10:00:00,sc_credit_0032
+2024-09-05,amazon refund,11.32,credit,scotia_cc,2024-09-05 10:00:00,sc_credit_0033
+2024-10-06,target return,122.65,credit,scotia_cc,2024-10-06 10:00:00,sc_credit_0034
+2024-11-07,best buy refund,136.17,credit,scotia_cc,2024-11-07 10:00:00,sc_credit_0035
+2024-12-08,costco rebate,104.87,credit,scotia_cc,2024-12-08 10:00:00,sc_credit_0036
+2024-01-09,amazon refund,32.12,credit,scotia_cc,2024-01-09 10:00:00,sc_credit_0037
+2024-02-10,target return,71.84,credit,scotia_cc,2024-02-10 10:00:00,sc_credit_0038
+2024-03-11,best buy refund,58.38,credit,scotia_cc,2024-03-11 10:00:00,sc_credit_0039
+2024-04-12,costco rebate,92.26,credit,scotia_cc,2024-04-12 10:00:00,sc_credit_0040
+2024-05-13,amazon refund,99.45,credit,scotia_cc,2024-05-13 10:00:00,sc_credit_0041
+2024-06-14,target return,69.4,credit,scotia_cc,2024-06-14 10:00:00,sc_credit_0042
+2024-07-15,best buy refund,45.01,credit,scotia_cc,2024-07-15 10:00:00,sc_credit_0043
+2024-08-16,costco rebate,128.34,credit,scotia_cc,2024-08-16 10:00:00,sc_credit_0044
+2024-09-17,amazon refund,37.89,credit,scotia_cc,2024-09-17 10:00:00,sc_credit_0045
+2024-10-18,target return,63.86,credit,scotia_cc,2024-10-18 10:00:00,sc_credit_0046
+2024-11-19,best buy refund,77.65,credit,scotia_cc,2024-11-19 10:00:00,sc_credit_0047
+2024-12-20,costco rebate,43.21,credit,scotia_cc,2024-12-20 10:00:00,sc_credit_0048
+2024-01-21,amazon refund,90.07,credit,scotia_cc,2024-01-21 10:00:00,sc_credit_0049
+2024-02-22,target return,90.47,credit,scotia_cc,2024-02-22 10:00:00,sc_credit_0050
+2024-01-01,royal bank of canada payment,1986.11,credit,scotia_cc,2024-01-01 10:00:00,sc_rbc_0001
+2024-02-02,royal bank of canada payment,660.94,credit,scotia_cc,2024-02-02 10:00:00,sc_rbc_0002
+2024-03-03,royal bank of canada payment,1958.09,credit,scotia_cc,2024-03-03 10:00:00,sc_rbc_0003
+2024-04-04,royal bank of canada payment,1350.64,credit,scotia_cc,2024-04-04 10:00:00,sc_rbc_0004
+2024-05-05,royal bank of canada payment,621.51,credit,scotia_cc,2024-05-05 10:00:00,sc_rbc_0005
+2024-06-06,royal bank of canada payment,1175.27,credit,scotia_cc,2024-06-06 10:00:00,sc_rbc_0006
+2024-07-07,royal bank of canada payment,1403.02,credit,scotia_cc,2024-07-07 10:00:00,sc_rbc_0007
+2024-08-08,royal bank of canada payment,1514.87,credit,scotia_cc,2024-08-08 10:00:00,sc_rbc_0008
+2024-09-09,royal bank of canada payment,193.18,credit,scotia_cc,2024-09-09 10:00:00,sc_rbc_0009
+2024-10-10,royal bank of canada payment,1252.17,credit,scotia_cc,2024-10-10 10:00:00,sc_rbc_0010
+2024-11-11,royal bank of canada payment,1043.78,credit,scotia_cc,2024-11-11 10:00:00,sc_rbc_0011
+2024-12-12,royal bank of canada payment,1817.9,credit,scotia_cc,2024-12-12 10:00:00,sc_rbc_0012
+2024-01-13,royal bank of canada payment,643.77,credit,scotia_cc,2024-01-13 10:00:00,sc_rbc_0013
+2024-02-14,royal bank of canada payment,1617.83,credit,scotia_cc,2024-02-14 10:00:00,sc_rbc_0014
+2024-03-15,royal bank of canada payment,1253.42,credit,scotia_cc,2024-03-15 10:00:00,sc_rbc_0015
+2024-04-16,royal bank of canada payment,769.41,credit,scotia_cc,2024-04-16 10:00:00,sc_rbc_0016
+2024-05-17,royal bank of canada payment,1309.57,credit,scotia_cc,2024-05-17 10:00:00,sc_rbc_0017
+2024-06-18,royal bank of canada payment,1279.69,credit,scotia_cc,2024-06-18 10:00:00,sc_rbc_0018
+2024-07-19,royal bank of canada payment,1387.75,credit,scotia_cc,2024-07-19 10:00:00,sc_rbc_0019
+2024-08-20,royal bank of canada payment,1469.76,credit,scotia_cc,2024-08-20 10:00:00,sc_rbc_0020
+2024-09-21,royal bank of canada payment,1352.44,credit,scotia_cc,2024-09-21 10:00:00,sc_rbc_0021
+2024-10-22,royal bank of canada payment,1692.84,credit,scotia_cc,2024-10-22 10:00:00,sc_rbc_0022
+2024-11-23,royal bank of canada payment,1293.67,credit,scotia_cc,2024-11-23 10:00:00,sc_rbc_0023
+2024-12-24,royal bank of canada payment,1816.47,credit,scotia_cc,2024-12-24 10:00:00,sc_rbc_0024
+2024-01-25,royal bank of canada payment,1328.05,credit,scotia_cc,2024-01-25 10:00:00,sc_rbc_0025
+2024-02-26,royal bank of canada payment,686.97,credit,scotia_cc,2024-02-26 10:00:00,sc_rbc_0026
+2024-03-27,royal bank of canada payment,937.56,credit,scotia_cc,2024-03-27 10:00:00,sc_rbc_0027
+2024-04-28,royal bank of canada payment,1201.19,credit,scotia_cc,2024-04-28 10:00:00,sc_rbc_0028
+2024-05-01,royal bank of canada payment,1491.48,credit,scotia_cc,2024-05-01 10:00:00,sc_rbc_0029
+2024-06-02,royal bank of canada payment,271.25,credit,scotia_cc,2024-06-02 10:00:00,sc_rbc_0030
+2024-07-03,royal bank of canada payment,660.71,credit,scotia_cc,2024-07-03 10:00:00,sc_rbc_0031
+2024-08-04,royal bank of canada payment,1520.21,credit,scotia_cc,2024-08-04 10:00:00,sc_rbc_0032
+2024-09-05,royal bank of canada payment,433.72,credit,scotia_cc,2024-09-05 10:00:00,sc_rbc_0033
+2024-10-06,royal bank of canada payment,351.1,credit,scotia_cc,2024-10-06 10:00:00,sc_rbc_0034
+2024-11-07,royal bank of canada payment,1124.87,credit,scotia_cc,2024-11-07 10:00:00,sc_rbc_0035
+2024-12-08,royal bank of canada payment,1945.83,credit,scotia_cc,2024-12-08 10:00:00,sc_rbc_0036
+2024-01-09,royal bank of canada payment,1108.62,credit,scotia_cc,2024-01-09 10:00:00,sc_rbc_0037
+2024-02-10,royal bank of canada payment,1835.63,credit,scotia_cc,2024-02-10 10:00:00,sc_rbc_0038
+2024-03-11,royal bank of canada payment,1677.9,credit,scotia_cc,2024-03-11 10:00:00,sc_rbc_0039
+2024-04-12,royal bank of canada payment,588.24,credit,scotia_cc,2024-04-12 10:00:00,sc_rbc_0040
+2024-05-13,royal bank of canada payment,1666.91,credit,scotia_cc,2024-05-13 10:00:00,sc_rbc_0041
+2024-06-14,royal bank of canada payment,1015.51,credit,scotia_cc,2024-06-14 10:00:00,sc_rbc_0042
+2024-07-15,royal bank of canada payment,1632.33,credit,scotia_cc,2024-07-15 10:00:00,sc_rbc_0043
+2024-08-16,royal bank of canada payment,1518.46,credit,scotia_cc,2024-08-16 10:00:00,sc_rbc_0044
+2024-09-17,royal bank of canada payment,743.56,credit,scotia_cc,2024-09-17 10:00:00,sc_rbc_0045
+2024-10-18,royal bank of canada payment,318.82,credit,scotia_cc,2024-10-18 10:00:00,sc_rbc_0046
+2024-11-19,royal bank of canada payment,1929.5,credit,scotia_cc,2024-11-19 10:00:00,sc_rbc_0047
+2024-12-20,royal bank of canada payment,367.44,credit,scotia_cc,2024-12-20 10:00:00,sc_rbc_0048
+2024-01-21,royal bank of canada payment,1936.35,credit,scotia_cc,2024-01-21 10:00:00,sc_rbc_0049
+2024-02-22,royal bank of canada payment,1734.27,credit,scotia_cc,2024-02-22 10:00:00,sc_rbc_0050
+2024-01-01,scotia cashback reward,18.38,credit,scotia_cc,2024-01-01 10:00:00,sc_cashback_0001
+2024-02-02,scotia cashback reward,24.52,credit,scotia_cc,2024-02-02 10:00:00,sc_cashback_0002
+2024-03-03,scotia cashback reward,24.21,credit,scotia_cc,2024-03-03 10:00:00,sc_cashback_0003
+2024-04-04,scotia cashback reward,20.31,credit,scotia_cc,2024-04-04 10:00:00,sc_cashback_0004
+2024-05-05,scotia cashback reward,9.78,credit,scotia_cc,2024-05-05 10:00:00,sc_cashback_0005
+2024-06-06,scotia cashback reward,19.98,credit,scotia_cc,2024-06-06 10:00:00,sc_cashback_0006
+2024-07-07,scotia cashback reward,1.33,credit,scotia_cc,2024-07-07 10:00:00,sc_cashback_0007
+2024-08-08,scotia cashback reward,13.88,credit,scotia_cc,2024-08-08 10:00:00,sc_cashback_0008
+2024-09-09,scotia cashback reward,11.91,credit,scotia_cc,2024-09-09 10:00:00,sc_cashback_0009
+2024-10-10,scotia cashback reward,17.15,credit,scotia_cc,2024-10-10 10:00:00,sc_cashback_0010
+2024-11-11,scotia cashback reward,17.14,credit,scotia_cc,2024-11-11 10:00:00,sc_cashback_0011
+2024-12-12,scotia cashback reward,15.03,credit,scotia_cc,2024-12-12 10:00:00,sc_cashback_0012
+2024-01-13,scotia cashback reward,20.74,credit,scotia_cc,2024-01-13 10:00:00,sc_cashback_0013
+2024-02-14,scotia cashback reward,23.57,credit,scotia_cc,2024-02-14 10:00:00,sc_cashback_0014
+2024-03-15,scotia cashback reward,3.6,credit,scotia_cc,2024-03-15 10:00:00,sc_cashback_0015
+2024-04-16,scotia cashback reward,6.61,credit,scotia_cc,2024-04-16 10:00:00,sc_cashback_0016
+2024-05-17,scotia cashback reward,1.6,credit,scotia_cc,2024-05-17 10:00:00,sc_cashback_0017
+2024-06-18,scotia cashback reward,22.22,credit,scotia_cc,2024-06-18 10:00:00,sc_cashback_0018
+2024-07-19,scotia cashback reward,14.47,credit,scotia_cc,2024-07-19 10:00:00,sc_cashback_0019
+2024-08-20,scotia cashback reward,22.97,credit,scotia_cc,2024-08-20 10:00:00,sc_cashback_0020
+2024-09-21,scotia cashback reward,6.31,credit,scotia_cc,2024-09-21 10:00:00,sc_cashback_0021
+2024-10-22,scotia cashback reward,2.52,credit,scotia_cc,2024-10-22 10:00:00,sc_cashback_0022
+2024-11-23,scotia cashback reward,20.77,credit,scotia_cc,2024-11-23 10:00:00,sc_cashback_0023
+2024-12-24,scotia cashback reward,22.83,credit,scotia_cc,2024-12-24 10:00:00,sc_cashback_0024
+2024-01-25,scotia cashback reward,8.25,credit,scotia_cc,2024-01-25 10:00:00,sc_cashback_0025
+2024-02-26,scotia cashback reward,10.8,credit,scotia_cc,2024-02-26 10:00:00,sc_cashback_0026
+2024-03-27,scotia cashback reward,4.35,credit,scotia_cc,2024-03-27 10:00:00,sc_cashback_0027
+2024-04-28,scotia cashback reward,23.71,credit,scotia_cc,2024-04-28 10:00:00,sc_cashback_0028
+2024-05-01,scotia cashback reward,8.3,credit,scotia_cc,2024-05-01 10:00:00,sc_cashback_0029
+2024-06-02,scotia cashback reward,12.82,credit,scotia_cc,2024-06-02 10:00:00,sc_cashback_0030
+2024-07-03,scotia cashback reward,3.33,credit,scotia_cc,2024-07-03 10:00:00,sc_cashback_0031
+2024-08-04,scotia cashback reward,22.29,credit,scotia_cc,2024-08-04 10:00:00,sc_cashback_0032
+2024-09-05,scotia cashback reward,4.26,credit,scotia_cc,2024-09-05 10:00:00,sc_cashback_0033
+2024-10-06,scotia cashback reward,11.89,credit,scotia_cc,2024-10-06 10:00:00,sc_cashback_0034
+2024-11-07,scotia cashback reward,17.09,credit,scotia_cc,2024-11-07 10:00:00,sc_cashback_0035
+2024-12-08,scotia cashback reward,18.84,credit,scotia_cc,2024-12-08 10:00:00,sc_cashback_0036
+2024-01-09,scotia cashback reward,23.7,credit,scotia_cc,2024-01-09 10:00:00,sc_cashback_0037
+2024-02-10,scotia cashback reward,11.06,credit,scotia_cc,2024-02-10 10:00:00,sc_cashback_0038
+2024-03-11,scotia cashback reward,18.81,credit,scotia_cc,2024-03-11 10:00:00,sc_cashback_0039
+2024-04-12,scotia cashback reward,4.71,credit,scotia_cc,2024-04-12 10:00:00,sc_cashback_0040
+2024-05-13,scotia cashback reward,10.96,credit,scotia_cc,2024-05-13 10:00:00,sc_cashback_0041
+2024-06-14,scotia cashback reward,3.38,credit,scotia_cc,2024-06-14 10:00:00,sc_cashback_0042
+2024-07-15,scotia cashback reward,12.74,credit,scotia_cc,2024-07-15 10:00:00,sc_cashback_0043
+2024-08-16,scotia cashback reward,10.79,credit,scotia_cc,2024-08-16 10:00:00,sc_cashback_0044
+2024-09-17,scotia cashback reward,23.84,credit,scotia_cc,2024-09-17 10:00:00,sc_cashback_0045
+2024-10-18,scotia cashback reward,1.79,credit,scotia_cc,2024-10-18 10:00:00,sc_cashback_0046
+2024-11-19,scotia cashback reward,9.89,credit,scotia_cc,2024-11-19 10:00:00,sc_cashback_0047
+2024-12-20,scotia cashback reward,11.64,credit,scotia_cc,2024-12-20 10:00:00,sc_cashback_0048
+2024-01-21,scotia cashback reward,23.81,credit,scotia_cc,2024-01-21 10:00:00,sc_cashback_0049
+2024-02-22,scotia cashback reward,21.53,credit,scotia_cc,2024-02-22 10:00:00,sc_cashback_0050

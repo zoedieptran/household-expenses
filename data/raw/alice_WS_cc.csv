@@ -1,0 +1,501 @@
+transaction_date,type,details,amount,currency,source_name,load_timestamp,transaction_id
+2024-01-01,purchase,amazon.com*123,321.52,CAD,ws_cc,2024-01-01 10:00:00,ws_0001
+2024-02-02,purchase,amazon marketplace*456,17.38,CAD,ws_cc,2024-02-02 10:00:00,ws_0002
+2024-03-03,purchase,amzn*789,141.14,CAD,ws_cc,2024-03-03 10:00:00,ws_0003
+2024-04-04,purchase,amzn mktp*001,115.49,CAD,ws_cc,2024-04-04 10:00:00,ws_0004
+2024-05-05,purchase,amazon.ca*222,369.55,CAD,ws_cc,2024-05-05 10:00:00,ws_0005
+2024-06-06,purchase,amazon prime*333,339.97,CAD,ws_cc,2024-06-06 10:00:00,ws_0006
+2024-07-07,purchase,temu#123,446.63,CAD,ws_cc,2024-07-07 10:00:00,ws_0007
+2024-08-08,purchase,temu456,48.03,CAD,ws_cc,2024-08-08 10:00:00,ws_0008
+2024-09-09,purchase,temu online,213.85,CAD,ws_cc,2024-09-09 10:00:00,ws_0009
+2024-10-10,purchase,walmart superstore,19.75,CAD,ws_cc,2024-10-10 10:00:00,ws_0010
+2024-11-11,purchase,wal-mart#101,113.23,CAD,ws_cc,2024-11-11 10:00:00,ws_0011
+2024-12-12,purchase,wal.mart202,255.15,CAD,ws_cc,2024-12-12 10:00:00,ws_0012
+2024-01-13,purchase,wal mart store,18.14,CAD,ws_cc,2024-01-13 10:00:00,ws_0013
+2024-02-14,purchase,walmart canada,103.42,CAD,ws_cc,2024-02-14 10:00:00,ws_0014
+2024-03-15,purchase,shein123,326.69,CAD,ws_cc,2024-03-15 10:00:00,ws_0015
+2024-04-16,purchase,shein online,274.75,CAD,ws_cc,2024-04-16 10:00:00,ws_0016
+2024-05-17,purchase,shein#456,114.12,CAD,ws_cc,2024-05-17 10:00:00,ws_0017
+2024-06-18,purchase,costco wholesale*789,296.69,CAD,ws_cc,2024-06-18 10:00:00,ws_0018
+2024-07-19,purchase,target#101,405.67,CAD,ws_cc,2024-07-19 10:00:00,ws_0019
+2024-08-20,purchase,safeway_202,8.22,CAD,ws_cc,2024-08-20 10:00:00,ws_0020
+2024-09-21,purchase,best buy*456,403.88,CAD,ws_cc,2024-09-21 10:00:00,ws_0021
+2024-10-22,purchase,staples_123,350.58,CAD,ws_cc,2024-10-22 10:00:00,ws_0022
+2024-11-23,purchase,homer depot#555,173.42,CAD,ws_cc,2024-11-23 10:00:00,ws_0023
+2024-12-24,purchase,ikea*999,81.96,CAD,ws_cc,2024-12-24 10:00:00,ws_0024
+2024-01-25,purchase,can tire_777,478.82,CAD,ws_cc,2024-01-25 10:00:00,ws_0025
+2024-02-26,purchase,sport chek#333,171.61,CAD,ws_cc,2024-02-26 10:00:00,ws_0026
+2024-03-27,purchase,london drugs*111,50.91,CAD,ws_cc,2024-03-27 10:00:00,ws_0027
+2024-04-28,purchase,amazon.com*123,52.87,CAD,ws_cc,2024-04-28 10:00:00,ws_0028
+2024-05-01,purchase,amazon marketplace*456,424.51,CAD,ws_cc,2024-05-01 10:00:00,ws_0029
+2024-06-02,purchase,amzn*789,303.84,CAD,ws_cc,2024-06-02 10:00:00,ws_0030
+2024-07-03,purchase,amzn mktp*001,404.53,CAD,ws_cc,2024-07-03 10:00:00,ws_0031
+2024-08-04,purchase,amazon.ca*222,366.22,CAD,ws_cc,2024-08-04 10:00:00,ws_0032
+2024-09-05,purchase,amazon prime*333,270.43,CAD,ws_cc,2024-09-05 10:00:00,ws_0033
+2024-10-06,purchase,temu#123,486.69,CAD,ws_cc,2024-10-06 10:00:00,ws_0034
+2024-11-07,purchase,temu456,192.37,CAD,ws_cc,2024-11-07 10:00:00,ws_0035
+2024-12-08,purchase,temu online,278.26,CAD,ws_cc,2024-12-08 10:00:00,ws_0036
+2024-01-09,purchase,walmart superstore,415.56,CAD,ws_cc,2024-01-09 10:00:00,ws_0037
+2024-02-10,purchase,wal-mart#101,311.17,CAD,ws_cc,2024-02-10 10:00:00,ws_0038
+2024-03-11,purchase,wal.mart202,431.54,CAD,ws_cc,2024-03-11 10:00:00,ws_0039
+2024-04-12,purchase,wal mart store,290.79,CAD,ws_cc,2024-04-12 10:00:00,ws_0040
+2024-05-13,purchase,walmart canada,353.76,CAD,ws_cc,2024-05-13 10:00:00,ws_0041
+2024-06-14,purchase,shein123,27.68,CAD,ws_cc,2024-06-14 10:00:00,ws_0042
+2024-07-15,purchase,shein online,117.81,CAD,ws_cc,2024-07-15 10:00:00,ws_0043
+2024-08-16,purchase,shein#456,148.25,CAD,ws_cc,2024-08-16 10:00:00,ws_0044
+2024-09-17,purchase,costco wholesale*789,44.5,CAD,ws_cc,2024-09-17 10:00:00,ws_0045
+2024-10-18,purchase,target#101,120.23,CAD,ws_cc,2024-10-18 10:00:00,ws_0046
+2024-11-19,purchase,safeway_202,55.0,CAD,ws_cc,2024-11-19 10:00:00,ws_0047
+2024-12-20,purchase,best buy*456,142.6,CAD,ws_cc,2024-12-20 10:00:00,ws_0048
+2024-01-21,purchase,staples_123,319.66,CAD,ws_cc,2024-01-21 10:00:00,ws_0049
+2024-02-22,purchase,homer depot#555,185.59,CAD,ws_cc,2024-02-22 10:00:00,ws_0050
+2024-03-23,purchase,ikea*999,188.24,CAD,ws_cc,2024-03-23 10:00:00,ws_0051
+2024-04-24,purchase,can tire_777,108.71,CAD,ws_cc,2024-04-24 10:00:00,ws_0052
+2024-05-25,purchase,sport chek#333,137.15,CAD,ws_cc,2024-05-25 10:00:00,ws_0053
+2024-06-26,purchase,london drugs*111,468.64,CAD,ws_cc,2024-06-26 10:00:00,ws_0054
+2024-07-27,purchase,amazon.com*123,325.78,CAD,ws_cc,2024-07-27 10:00:00,ws_0055
+2024-08-28,purchase,amazon marketplace*456,306.52,CAD,ws_cc,2024-08-28 10:00:00,ws_0056
+2024-09-01,purchase,amzn*789,89.71,CAD,ws_cc,2024-09-01 10:00:00,ws_0057
+2024-10-02,purchase,amzn mktp*001,365.92,CAD,ws_cc,2024-10-02 10:00:00,ws_0058
+2024-11-03,purchase,amazon.ca*222,85.88,CAD,ws_cc,2024-11-03 10:00:00,ws_0059
+2024-12-04,purchase,amazon prime*333,192.83,CAD,ws_cc,2024-12-04 10:00:00,ws_0060
+2024-01-05,purchase,temu#123,494.81,CAD,ws_cc,2024-01-05 10:00:00,ws_0061
+2024-02-06,purchase,temu456,321.8,CAD,ws_cc,2024-02-06 10:00:00,ws_0062
+2024-03-07,purchase,temu online,280.69,CAD,ws_cc,2024-03-07 10:00:00,ws_0063
+2024-04-08,purchase,walmart superstore,343.88,CAD,ws_cc,2024-04-08 10:00:00,ws_0064
+2024-05-09,purchase,wal-mart#101,422.21,CAD,ws_cc,2024-05-09 10:00:00,ws_0065
+2024-06-10,purchase,wal.mart202,389.12,CAD,ws_cc,2024-06-10 10:00:00,ws_0066
+2024-07-11,purchase,wal mart store,118.38,CAD,ws_cc,2024-07-11 10:00:00,ws_0067
+2024-08-12,purchase,walmart canada,20.89,CAD,ws_cc,2024-08-12 10:00:00,ws_0068
+2024-09-13,purchase,shein123,161.15,CAD,ws_cc,2024-09-13 10:00:00,ws_0069
+2024-10-14,purchase,shein online,137.53,CAD,ws_cc,2024-10-14 10:00:00,ws_0070
+2024-11-15,purchase,shein#456,109.44,CAD,ws_cc,2024-11-15 10:00:00,ws_0071
+2024-12-16,purchase,costco wholesale*789,471.74,CAD,ws_cc,2024-12-16 10:00:00,ws_0072
+2024-01-17,purchase,target#101,438.8,CAD,ws_cc,2024-01-17 10:00:00,ws_0073
+2024-02-18,purchase,safeway_202,160.77,CAD,ws_cc,2024-02-18 10:00:00,ws_0074
+2024-03-19,purchase,best buy*456,329.44,CAD,ws_cc,2024-03-19 10:00:00,ws_0075
+2024-04-20,purchase,staples_123,200.84,CAD,ws_cc,2024-04-20 10:00:00,ws_0076
+2024-05-21,purchase,homer depot#555,457.7,CAD,ws_cc,2024-05-21 10:00:00,ws_0077
+2024-06-22,purchase,ikea*999,232.13,CAD,ws_cc,2024-06-22 10:00:00,ws_0078
+2024-07-23,purchase,can tire_777,136.12,CAD,ws_cc,2024-07-23 10:00:00,ws_0079
+2024-08-24,purchase,sport chek#333,127.08,CAD,ws_cc,2024-08-24 10:00:00,ws_0080
+2024-09-25,purchase,london drugs*111,282.88,CAD,ws_cc,2024-09-25 10:00:00,ws_0081
+2024-10-26,purchase,amazon.com*123,135.06,CAD,ws_cc,2024-10-26 10:00:00,ws_0082
+2024-11-27,purchase,amazon marketplace*456,294.37,CAD,ws_cc,2024-11-27 10:00:00,ws_0083
+2024-12-28,purchase,amzn*789,449.42,CAD,ws_cc,2024-12-28 10:00:00,ws_0084
+2024-01-01,purchase,amzn mktp*001,202.7,CAD,ws_cc,2024-01-01 10:00:00,ws_0085
+2024-02-02,purchase,amazon.ca*222,113.56,CAD,ws_cc,2024-02-02 10:00:00,ws_0086
+2024-03-03,purchase,amazon prime*333,498.78,CAD,ws_cc,2024-03-03 10:00:00,ws_0087
+2024-04-04,purchase,temu#123,257.22,CAD,ws_cc,2024-04-04 10:00:00,ws_0088
+2024-05-05,purchase,temu456,50.0,CAD,ws_cc,2024-05-05 10:00:00,ws_0089
+2024-06-06,purchase,temu online,28.32,CAD,ws_cc,2024-06-06 10:00:00,ws_0090
+2024-07-07,purchase,walmart superstore,59.28,CAD,ws_cc,2024-07-07 10:00:00,ws_0091
+2024-08-08,purchase,wal-mart#101,315.59,CAD,ws_cc,2024-08-08 10:00:00,ws_0092
+2024-09-09,purchase,wal.mart202,397.08,CAD,ws_cc,2024-09-09 10:00:00,ws_0093
+2024-10-10,purchase,wal mart store,213.97,CAD,ws_cc,2024-10-10 10:00:00,ws_0094
+2024-11-11,purchase,walmart canada,36.45,CAD,ws_cc,2024-11-11 10:00:00,ws_0095
+2024-12-12,purchase,shein123,193.9,CAD,ws_cc,2024-12-12 10:00:00,ws_0096
+2024-01-13,purchase,shein online,498.08,CAD,ws_cc,2024-01-13 10:00:00,ws_0097
+2024-02-14,purchase,shein#456,266.91,CAD,ws_cc,2024-02-14 10:00:00,ws_0098
+2024-03-15,purchase,costco wholesale*789,485.68,CAD,ws_cc,2024-03-15 10:00:00,ws_0099
+2024-04-16,purchase,target#101,431.09,CAD,ws_cc,2024-04-16 10:00:00,ws_0100
+2024-05-17,purchase,safeway_202,10.68,CAD,ws_cc,2024-05-17 10:00:00,ws_0101
+2024-06-18,purchase,best buy*456,361.76,CAD,ws_cc,2024-06-18 10:00:00,ws_0102
+2024-07-19,purchase,staples_123,342.45,CAD,ws_cc,2024-07-19 10:00:00,ws_0103
+2024-08-20,purchase,homer depot#555,270.8,CAD,ws_cc,2024-08-20 10:00:00,ws_0104
+2024-09-21,purchase,ikea*999,137.08,CAD,ws_cc,2024-09-21 10:00:00,ws_0105
+2024-10-22,purchase,can tire_777,322.28,CAD,ws_cc,2024-10-22 10:00:00,ws_0106
+2024-11-23,purchase,sport chek#333,60.22,CAD,ws_cc,2024-11-23 10:00:00,ws_0107
+2024-12-24,purchase,london drugs*111,220.21,CAD,ws_cc,2024-12-24 10:00:00,ws_0108
+2024-01-25,purchase,amazon.com*123,229.59,CAD,ws_cc,2024-01-25 10:00:00,ws_0109
+2024-02-26,purchase,amazon marketplace*456,477.14,CAD,ws_cc,2024-02-26 10:00:00,ws_0110
+2024-03-27,purchase,amzn*789,438.55,CAD,ws_cc,2024-03-27 10:00:00,ws_0111
+2024-04-28,purchase,amzn mktp*001,135.38,CAD,ws_cc,2024-04-28 10:00:00,ws_0112
+2024-05-01,purchase,amazon.ca*222,252.79,CAD,ws_cc,2024-05-01 10:00:00,ws_0113
+2024-06-02,purchase,amazon prime*333,93.43,CAD,ws_cc,2024-06-02 10:00:00,ws_0114
+2024-07-03,purchase,temu#123,456.75,CAD,ws_cc,2024-07-03 10:00:00,ws_0115
+2024-08-04,purchase,temu456,435.91,CAD,ws_cc,2024-08-04 10:00:00,ws_0116
+2024-09-05,purchase,temu online,152.73,CAD,ws_cc,2024-09-05 10:00:00,ws_0117
+2024-10-06,purchase,walmart superstore,321.28,CAD,ws_cc,2024-10-06 10:00:00,ws_0118
+2024-11-07,purchase,wal-mart#101,306.44,CAD,ws_cc,2024-11-07 10:00:00,ws_0119
+2024-12-08,purchase,wal.mart202,80.66,CAD,ws_cc,2024-12-08 10:00:00,ws_0120
+2024-01-09,purchase,wal mart store,382.44,CAD,ws_cc,2024-01-09 10:00:00,ws_0121
+2024-02-10,purchase,walmart canada,271.99,CAD,ws_cc,2024-02-10 10:00:00,ws_0122
+2024-03-11,purchase,shein123,390.42,CAD,ws_cc,2024-03-11 10:00:00,ws_0123
+2024-04-12,purchase,shein online,267.53,CAD,ws_cc,2024-04-12 10:00:00,ws_0124
+2024-05-13,purchase,shein#456,5.28,CAD,ws_cc,2024-05-13 10:00:00,ws_0125
+2024-06-14,purchase,costco wholesale*789,165.46,CAD,ws_cc,2024-06-14 10:00:00,ws_0126
+2024-07-15,purchase,target#101,14.64,CAD,ws_cc,2024-07-15 10:00:00,ws_0127
+2024-08-16,purchase,safeway_202,464.9,CAD,ws_cc,2024-08-16 10:00:00,ws_0128
+2024-09-17,purchase,best buy*456,439.97,CAD,ws_cc,2024-09-17 10:00:00,ws_0129
+2024-10-18,purchase,staples_123,416.67,CAD,ws_cc,2024-10-18 10:00:00,ws_0130
+2024-11-19,purchase,homer depot#555,157.22,CAD,ws_cc,2024-11-19 10:00:00,ws_0131
+2024-12-20,purchase,ikea*999,33.67,CAD,ws_cc,2024-12-20 10:00:00,ws_0132
+2024-01-21,purchase,can tire_777,439.61,CAD,ws_cc,2024-01-21 10:00:00,ws_0133
+2024-02-22,purchase,sport chek#333,473.74,CAD,ws_cc,2024-02-22 10:00:00,ws_0134
+2024-03-23,purchase,london drugs*111,47.4,CAD,ws_cc,2024-03-23 10:00:00,ws_0135
+2024-04-24,purchase,amazon.com*123,245.57,CAD,ws_cc,2024-04-24 10:00:00,ws_0136
+2024-05-25,purchase,amazon marketplace*456,39.26,CAD,ws_cc,2024-05-25 10:00:00,ws_0137
+2024-06-26,purchase,amzn*789,381.5,CAD,ws_cc,2024-06-26 10:00:00,ws_0138
+2024-07-27,purchase,amzn mktp*001,384.09,CAD,ws_cc,2024-07-27 10:00:00,ws_0139
+2024-08-28,purchase,amazon.ca*222,68.55,CAD,ws_cc,2024-08-28 10:00:00,ws_0140
+2024-09-01,purchase,amazon prime*333,240.26,CAD,ws_cc,2024-09-01 10:00:00,ws_0141
+2024-10-02,purchase,temu#123,277.15,CAD,ws_cc,2024-10-02 10:00:00,ws_0142
+2024-11-03,purchase,temu456,136.2,CAD,ws_cc,2024-11-03 10:00:00,ws_0143
+2024-12-04,purchase,temu online,436.85,CAD,ws_cc,2024-12-04 10:00:00,ws_0144
+2024-01-05,purchase,walmart superstore,214.45,CAD,ws_cc,2024-01-05 10:00:00,ws_0145
+2024-02-06,purchase,wal-mart#101,109.84,CAD,ws_cc,2024-02-06 10:00:00,ws_0146
+2024-03-07,purchase,wal.mart202,271.95,CAD,ws_cc,2024-03-07 10:00:00,ws_0147
+2024-04-08,purchase,wal mart store,366.32,CAD,ws_cc,2024-04-08 10:00:00,ws_0148
+2024-05-09,purchase,walmart canada,104.57,CAD,ws_cc,2024-05-09 10:00:00,ws_0149
+2024-06-10,purchase,shein123,159.3,CAD,ws_cc,2024-06-10 10:00:00,ws_0150
+2024-07-11,purchase,shein online,497.6,CAD,ws_cc,2024-07-11 10:00:00,ws_0151
+2024-08-12,purchase,shein#456,326.69,CAD,ws_cc,2024-08-12 10:00:00,ws_0152
+2024-09-13,purchase,costco wholesale*789,221.86,CAD,ws_cc,2024-09-13 10:00:00,ws_0153
+2024-10-14,purchase,target#101,261.2,CAD,ws_cc,2024-10-14 10:00:00,ws_0154
+2024-11-15,purchase,safeway_202,64.9,CAD,ws_cc,2024-11-15 10:00:00,ws_0155
+2024-12-16,purchase,best buy*456,116.23,CAD,ws_cc,2024-12-16 10:00:00,ws_0156
+2024-01-17,purchase,staples_123,172.35,CAD,ws_cc,2024-01-17 10:00:00,ws_0157
+2024-02-18,purchase,homer depot#555,296.21,CAD,ws_cc,2024-02-18 10:00:00,ws_0158
+2024-03-19,purchase,ikea*999,118.91,CAD,ws_cc,2024-03-19 10:00:00,ws_0159
+2024-04-20,purchase,can tire_777,114.01,CAD,ws_cc,2024-04-20 10:00:00,ws_0160
+2024-05-21,purchase,sport chek#333,40.14,CAD,ws_cc,2024-05-21 10:00:00,ws_0161
+2024-06-22,purchase,london drugs*111,317.4,CAD,ws_cc,2024-06-22 10:00:00,ws_0162
+2024-07-23,purchase,amazon.com*123,118.33,CAD,ws_cc,2024-07-23 10:00:00,ws_0163
+2024-08-24,purchase,amazon marketplace*456,453.18,CAD,ws_cc,2024-08-24 10:00:00,ws_0164
+2024-09-25,purchase,amzn*789,430.52,CAD,ws_cc,2024-09-25 10:00:00,ws_0165
+2024-10-26,purchase,amzn mktp*001,40.07,CAD,ws_cc,2024-10-26 10:00:00,ws_0166
+2024-11-27,purchase,amazon.ca*222,122.81,CAD,ws_cc,2024-11-27 10:00:00,ws_0167
+2024-12-28,purchase,amazon prime*333,336.14,CAD,ws_cc,2024-12-28 10:00:00,ws_0168
+2024-01-01,purchase,temu#123,111.05,CAD,ws_cc,2024-01-01 10:00:00,ws_0169
+2024-02-02,purchase,temu456,70.49,CAD,ws_cc,2024-02-02 10:00:00,ws_0170
+2024-03-03,purchase,temu online,468.08,CAD,ws_cc,2024-03-03 10:00:00,ws_0171
+2024-04-04,purchase,walmart superstore,287.67,CAD,ws_cc,2024-04-04 10:00:00,ws_0172
+2024-05-05,purchase,wal-mart#101,238.97,CAD,ws_cc,2024-05-05 10:00:00,ws_0173
+2024-06-06,purchase,wal.mart202,393.39,CAD,ws_cc,2024-06-06 10:00:00,ws_0174
+2024-07-07,purchase,wal mart store,404.71,CAD,ws_cc,2024-07-07 10:00:00,ws_0175
+2024-08-08,purchase,walmart canada,99.25,CAD,ws_cc,2024-08-08 10:00:00,ws_0176
+2024-09-09,purchase,shein123,52.98,CAD,ws_cc,2024-09-09 10:00:00,ws_0177
+2024-10-10,purchase,shein online,218.37,CAD,ws_cc,2024-10-10 10:00:00,ws_0178
+2024-11-11,purchase,shein#456,214.67,CAD,ws_cc,2024-11-11 10:00:00,ws_0179
+2024-12-12,purchase,costco wholesale*789,236.18,CAD,ws_cc,2024-12-12 10:00:00,ws_0180
+2024-01-13,purchase,target#101,365.89,CAD,ws_cc,2024-01-13 10:00:00,ws_0181
+2024-02-14,purchase,safeway_202,338.32,CAD,ws_cc,2024-02-14 10:00:00,ws_0182
+2024-03-15,purchase,best buy*456,492.16,CAD,ws_cc,2024-03-15 10:00:00,ws_0183
+2024-04-16,purchase,staples_123,53.72,CAD,ws_cc,2024-04-16 10:00:00,ws_0184
+2024-05-17,purchase,homer depot#555,204.3,CAD,ws_cc,2024-05-17 10:00:00,ws_0185
+2024-06-18,purchase,ikea*999,172.95,CAD,ws_cc,2024-06-18 10:00:00,ws_0186
+2024-07-19,purchase,can tire_777,431.53,CAD,ws_cc,2024-07-19 10:00:00,ws_0187
+2024-08-20,purchase,sport chek#333,128.08,CAD,ws_cc,2024-08-20 10:00:00,ws_0188
+2024-09-21,purchase,london drugs*111,99.15,CAD,ws_cc,2024-09-21 10:00:00,ws_0189
+2024-10-22,purchase,amazon.com*123,227.06,CAD,ws_cc,2024-10-22 10:00:00,ws_0190
+2024-11-23,purchase,amazon marketplace*456,213.83,CAD,ws_cc,2024-11-23 10:00:00,ws_0191
+2024-12-24,purchase,amzn*789,142.88,CAD,ws_cc,2024-12-24 10:00:00,ws_0192
+2024-01-25,purchase,amzn mktp*001,128.65,CAD,ws_cc,2024-01-25 10:00:00,ws_0193
+2024-02-26,purchase,amazon.ca*222,462.02,CAD,ws_cc,2024-02-26 10:00:00,ws_0194
+2024-03-27,purchase,amazon prime*333,224.35,CAD,ws_cc,2024-03-27 10:00:00,ws_0195
+2024-04-28,purchase,temu#123,431.37,CAD,ws_cc,2024-04-28 10:00:00,ws_0196
+2024-05-01,purchase,temu456,277.41,CAD,ws_cc,2024-05-01 10:00:00,ws_0197
+2024-06-02,purchase,temu online,30.04,CAD,ws_cc,2024-06-02 10:00:00,ws_0198
+2024-07-03,purchase,walmart superstore,499.64,CAD,ws_cc,2024-07-03 10:00:00,ws_0199
+2024-08-04,purchase,wal-mart#101,418.83,CAD,ws_cc,2024-08-04 10:00:00,ws_0200
+2024-09-05,purchase,wal.mart202,484.65,CAD,ws_cc,2024-09-05 10:00:00,ws_0201
+2024-10-06,purchase,wal mart store,463.55,CAD,ws_cc,2024-10-06 10:00:00,ws_0202
+2024-11-07,purchase,walmart canada,425.1,CAD,ws_cc,2024-11-07 10:00:00,ws_0203
+2024-12-08,purchase,shein123,87.32,CAD,ws_cc,2024-12-08 10:00:00,ws_0204
+2024-01-09,purchase,shein online,245.39,CAD,ws_cc,2024-01-09 10:00:00,ws_0205
+2024-02-10,purchase,shein#456,110.8,CAD,ws_cc,2024-02-10 10:00:00,ws_0206
+2024-03-11,purchase,costco wholesale*789,203.51,CAD,ws_cc,2024-03-11 10:00:00,ws_0207
+2024-04-12,purchase,target#101,34.02,CAD,ws_cc,2024-04-12 10:00:00,ws_0208
+2024-05-13,purchase,safeway_202,192.59,CAD,ws_cc,2024-05-13 10:00:00,ws_0209
+2024-06-14,purchase,best buy*456,492.73,CAD,ws_cc,2024-06-14 10:00:00,ws_0210
+2024-07-15,purchase,staples_123,136.28,CAD,ws_cc,2024-07-15 10:00:00,ws_0211
+2024-08-16,purchase,homer depot#555,393.11,CAD,ws_cc,2024-08-16 10:00:00,ws_0212
+2024-09-17,purchase,ikea*999,230.23,CAD,ws_cc,2024-09-17 10:00:00,ws_0213
+2024-10-18,purchase,can tire_777,214.39,CAD,ws_cc,2024-10-18 10:00:00,ws_0214
+2024-11-19,purchase,sport chek#333,478.87,CAD,ws_cc,2024-11-19 10:00:00,ws_0215
+2024-12-20,purchase,london drugs*111,497.73,CAD,ws_cc,2024-12-20 10:00:00,ws_0216
+2024-01-21,purchase,amazon.com*123,280.11,CAD,ws_cc,2024-01-21 10:00:00,ws_0217
+2024-02-22,purchase,amazon marketplace*456,360.61,CAD,ws_cc,2024-02-22 10:00:00,ws_0218
+2024-03-23,purchase,amzn*789,81.62,CAD,ws_cc,2024-03-23 10:00:00,ws_0219
+2024-04-24,purchase,amzn mktp*001,151.87,CAD,ws_cc,2024-04-24 10:00:00,ws_0220
+2024-05-25,purchase,amazon.ca*222,484.51,CAD,ws_cc,2024-05-25 10:00:00,ws_0221
+2024-06-26,purchase,amazon prime*333,291.69,CAD,ws_cc,2024-06-26 10:00:00,ws_0222
+2024-07-27,purchase,temu#123,273.39,CAD,ws_cc,2024-07-27 10:00:00,ws_0223
+2024-08-28,purchase,temu456,375.25,CAD,ws_cc,2024-08-28 10:00:00,ws_0224
+2024-09-01,purchase,temu online,33.3,CAD,ws_cc,2024-09-01 10:00:00,ws_0225
+2024-10-02,purchase,walmart superstore,294.17,CAD,ws_cc,2024-10-02 10:00:00,ws_0226
+2024-11-03,purchase,wal-mart#101,253.91,CAD,ws_cc,2024-11-03 10:00:00,ws_0227
+2024-12-04,purchase,wal.mart202,427.1,CAD,ws_cc,2024-12-04 10:00:00,ws_0228
+2024-01-05,purchase,wal mart store,82.93,CAD,ws_cc,2024-01-05 10:00:00,ws_0229
+2024-02-06,purchase,walmart canada,480.59,CAD,ws_cc,2024-02-06 10:00:00,ws_0230
+2024-03-07,purchase,shein123,44.66,CAD,ws_cc,2024-03-07 10:00:00,ws_0231
+2024-04-08,purchase,shein online,96.98,CAD,ws_cc,2024-04-08 10:00:00,ws_0232
+2024-05-09,purchase,shein#456,299.54,CAD,ws_cc,2024-05-09 10:00:00,ws_0233
+2024-06-10,purchase,costco wholesale*789,339.23,CAD,ws_cc,2024-06-10 10:00:00,ws_0234
+2024-07-11,purchase,target#101,121.43,CAD,ws_cc,2024-07-11 10:00:00,ws_0235
+2024-08-12,purchase,safeway_202,64.34,CAD,ws_cc,2024-08-12 10:00:00,ws_0236
+2024-09-13,purchase,best buy*456,445.69,CAD,ws_cc,2024-09-13 10:00:00,ws_0237
+2024-10-14,purchase,staples_123,126.88,CAD,ws_cc,2024-10-14 10:00:00,ws_0238
+2024-11-15,purchase,homer depot#555,299.29,CAD,ws_cc,2024-11-15 10:00:00,ws_0239
+2024-12-16,purchase,ikea*999,311.59,CAD,ws_cc,2024-12-16 10:00:00,ws_0240
+2024-01-17,purchase,can tire_777,212.52,CAD,ws_cc,2024-01-17 10:00:00,ws_0241
+2024-02-18,purchase,sport chek#333,293.92,CAD,ws_cc,2024-02-18 10:00:00,ws_0242
+2024-03-19,purchase,london drugs*111,263.78,CAD,ws_cc,2024-03-19 10:00:00,ws_0243
+2024-04-20,purchase,amazon.com*123,467.68,CAD,ws_cc,2024-04-20 10:00:00,ws_0244
+2024-05-21,purchase,amazon marketplace*456,106.11,CAD,ws_cc,2024-05-21 10:00:00,ws_0245
+2024-06-22,purchase,amzn*789,359.51,CAD,ws_cc,2024-06-22 10:00:00,ws_0246
+2024-07-23,purchase,amzn mktp*001,123.15,CAD,ws_cc,2024-07-23 10:00:00,ws_0247
+2024-08-24,purchase,amazon.ca*222,200.91,CAD,ws_cc,2024-08-24 10:00:00,ws_0248
+2024-09-25,purchase,amazon prime*333,337.49,CAD,ws_cc,2024-09-25 10:00:00,ws_0249
+2024-10-26,purchase,temu#123,153.5,CAD,ws_cc,2024-10-26 10:00:00,ws_0250
+2024-11-27,purchase,temu456,161.51,CAD,ws_cc,2024-11-27 10:00:00,ws_0251
+2024-12-28,purchase,temu online,377.17,CAD,ws_cc,2024-12-28 10:00:00,ws_0252
+2024-01-01,purchase,walmart superstore,40.91,CAD,ws_cc,2024-01-01 10:00:00,ws_0253
+2024-02-02,purchase,wal-mart#101,231.85,CAD,ws_cc,2024-02-02 10:00:00,ws_0254
+2024-03-03,purchase,wal.mart202,499.23,CAD,ws_cc,2024-03-03 10:00:00,ws_0255
+2024-04-04,purchase,wal mart store,498.07,CAD,ws_cc,2024-04-04 10:00:00,ws_0256
+2024-05-05,purchase,walmart canada,41.26,CAD,ws_cc,2024-05-05 10:00:00,ws_0257
+2024-06-06,purchase,shein123,110.51,CAD,ws_cc,2024-06-06 10:00:00,ws_0258
+2024-07-07,purchase,shein online,136.27,CAD,ws_cc,2024-07-07 10:00:00,ws_0259
+2024-08-08,purchase,shein#456,466.96,CAD,ws_cc,2024-08-08 10:00:00,ws_0260
+2024-09-09,purchase,costco wholesale*789,441.03,CAD,ws_cc,2024-09-09 10:00:00,ws_0261
+2024-10-10,purchase,target#101,440.24,CAD,ws_cc,2024-10-10 10:00:00,ws_0262
+2024-11-11,purchase,safeway_202,187.92,CAD,ws_cc,2024-11-11 10:00:00,ws_0263
+2024-12-12,purchase,best buy*456,83.08,CAD,ws_cc,2024-12-12 10:00:00,ws_0264
+2024-01-13,purchase,staples_123,417.7,CAD,ws_cc,2024-01-13 10:00:00,ws_0265
+2024-02-14,purchase,homer depot#555,353.25,CAD,ws_cc,2024-02-14 10:00:00,ws_0266
+2024-03-15,purchase,ikea*999,307.78,CAD,ws_cc,2024-03-15 10:00:00,ws_0267
+2024-04-16,purchase,can tire_777,493.68,CAD,ws_cc,2024-04-16 10:00:00,ws_0268
+2024-05-17,purchase,sport chek#333,328.72,CAD,ws_cc,2024-05-17 10:00:00,ws_0269
+2024-06-18,purchase,london drugs*111,8.87,CAD,ws_cc,2024-06-18 10:00:00,ws_0270
+2024-07-19,purchase,amazon.com*123,409.47,CAD,ws_cc,2024-07-19 10:00:00,ws_0271
+2024-08-20,purchase,amazon marketplace*456,153.19,CAD,ws_cc,2024-08-20 10:00:00,ws_0272
+2024-09-21,purchase,amzn*789,333.38,CAD,ws_cc,2024-09-21 10:00:00,ws_0273
+2024-10-22,purchase,amzn mktp*001,469.77,CAD,ws_cc,2024-10-22 10:00:00,ws_0274
+2024-11-23,purchase,amazon.ca*222,71.47,CAD,ws_cc,2024-11-23 10:00:00,ws_0275
+2024-12-24,purchase,amazon prime*333,62.14,CAD,ws_cc,2024-12-24 10:00:00,ws_0276
+2024-01-25,purchase,temu#123,57.98,CAD,ws_cc,2024-01-25 10:00:00,ws_0277
+2024-02-26,purchase,temu456,278.85,CAD,ws_cc,2024-02-26 10:00:00,ws_0278
+2024-03-27,purchase,temu online,139.81,CAD,ws_cc,2024-03-27 10:00:00,ws_0279
+2024-04-28,purchase,walmart superstore,304.39,CAD,ws_cc,2024-04-28 10:00:00,ws_0280
+2024-05-01,purchase,wal-mart#101,360.22,CAD,ws_cc,2024-05-01 10:00:00,ws_0281
+2024-06-02,purchase,wal.mart202,105.78,CAD,ws_cc,2024-06-02 10:00:00,ws_0282
+2024-07-03,purchase,wal mart store,318.95,CAD,ws_cc,2024-07-03 10:00:00,ws_0283
+2024-08-04,purchase,walmart canada,135.67,CAD,ws_cc,2024-08-04 10:00:00,ws_0284
+2024-09-05,purchase,shein123,246.82,CAD,ws_cc,2024-09-05 10:00:00,ws_0285
+2024-10-06,purchase,shein online,453.14,CAD,ws_cc,2024-10-06 10:00:00,ws_0286
+2024-11-07,purchase,shein#456,423.82,CAD,ws_cc,2024-11-07 10:00:00,ws_0287
+2024-12-08,purchase,costco wholesale*789,50.69,CAD,ws_cc,2024-12-08 10:00:00,ws_0288
+2024-01-09,purchase,target#101,214.67,CAD,ws_cc,2024-01-09 10:00:00,ws_0289
+2024-02-10,purchase,safeway_202,141.96,CAD,ws_cc,2024-02-10 10:00:00,ws_0290
+2024-03-11,purchase,best buy*456,6.76,CAD,ws_cc,2024-03-11 10:00:00,ws_0291
+2024-04-12,purchase,staples_123,386.7,CAD,ws_cc,2024-04-12 10:00:00,ws_0292
+2024-05-13,purchase,homer depot#555,320.37,CAD,ws_cc,2024-05-13 10:00:00,ws_0293
+2024-06-14,purchase,ikea*999,134.67,CAD,ws_cc,2024-06-14 10:00:00,ws_0294
+2024-07-15,purchase,can tire_777,371.91,CAD,ws_cc,2024-07-15 10:00:00,ws_0295
+2024-08-16,purchase,sport chek#333,278.08,CAD,ws_cc,2024-08-16 10:00:00,ws_0296
+2024-09-17,purchase,london drugs*111,216.71,CAD,ws_cc,2024-09-17 10:00:00,ws_0297
+2024-10-18,purchase,amazon.com*123,9.79,CAD,ws_cc,2024-10-18 10:00:00,ws_0298
+2024-11-19,purchase,amazon marketplace*456,42.25,CAD,ws_cc,2024-11-19 10:00:00,ws_0299
+2024-12-20,purchase,amzn*789,442.14,CAD,ws_cc,2024-12-20 10:00:00,ws_0300
+2024-01-21,purchase,amzn mktp*001,452.44,CAD,ws_cc,2024-01-21 10:00:00,ws_0301
+2024-02-22,purchase,amazon.ca*222,275.07,CAD,ws_cc,2024-02-22 10:00:00,ws_0302
+2024-03-23,purchase,amazon prime*333,418.12,CAD,ws_cc,2024-03-23 10:00:00,ws_0303
+2024-04-24,purchase,temu#123,293.34,CAD,ws_cc,2024-04-24 10:00:00,ws_0304
+2024-05-25,purchase,temu456,78.31,CAD,ws_cc,2024-05-25 10:00:00,ws_0305
+2024-06-26,purchase,temu online,68.09,CAD,ws_cc,2024-06-26 10:00:00,ws_0306
+2024-07-27,purchase,walmart superstore,157.59,CAD,ws_cc,2024-07-27 10:00:00,ws_0307
+2024-08-28,purchase,wal-mart#101,450.0,CAD,ws_cc,2024-08-28 10:00:00,ws_0308
+2024-09-01,purchase,wal.mart202,399.08,CAD,ws_cc,2024-09-01 10:00:00,ws_0309
+2024-10-02,purchase,wal mart store,431.05,CAD,ws_cc,2024-10-02 10:00:00,ws_0310
+2024-11-03,purchase,walmart canada,449.97,CAD,ws_cc,2024-11-03 10:00:00,ws_0311
+2024-12-04,purchase,shein123,108.99,CAD,ws_cc,2024-12-04 10:00:00,ws_0312
+2024-01-05,purchase,shein online,128.52,CAD,ws_cc,2024-01-05 10:00:00,ws_0313
+2024-02-06,purchase,shein#456,55.88,CAD,ws_cc,2024-02-06 10:00:00,ws_0314
+2024-03-07,purchase,costco wholesale*789,391.16,CAD,ws_cc,2024-03-07 10:00:00,ws_0315
+2024-04-08,purchase,target#101,442.65,CAD,ws_cc,2024-04-08 10:00:00,ws_0316
+2024-05-09,purchase,safeway_202,206.16,CAD,ws_cc,2024-05-09 10:00:00,ws_0317
+2024-06-10,purchase,best buy*456,312.23,CAD,ws_cc,2024-06-10 10:00:00,ws_0318
+2024-07-11,purchase,staples_123,81.5,CAD,ws_cc,2024-07-11 10:00:00,ws_0319
+2024-08-12,purchase,homer depot#555,465.29,CAD,ws_cc,2024-08-12 10:00:00,ws_0320
+2024-09-13,purchase,ikea*999,432.98,CAD,ws_cc,2024-09-13 10:00:00,ws_0321
+2024-10-14,purchase,can tire_777,488.22,CAD,ws_cc,2024-10-14 10:00:00,ws_0322
+2024-11-15,purchase,sport chek#333,406.33,CAD,ws_cc,2024-11-15 10:00:00,ws_0323
+2024-12-16,purchase,london drugs*111,441.3,CAD,ws_cc,2024-12-16 10:00:00,ws_0324
+2024-01-17,purchase,amazon.com*123,17.27,CAD,ws_cc,2024-01-17 10:00:00,ws_0325
+2024-02-18,purchase,amazon marketplace*456,369.6,CAD,ws_cc,2024-02-18 10:00:00,ws_0326
+2024-03-19,purchase,amzn*789,169.43,CAD,ws_cc,2024-03-19 10:00:00,ws_0327
+2024-04-20,purchase,amzn mktp*001,465.75,CAD,ws_cc,2024-04-20 10:00:00,ws_0328
+2024-05-21,purchase,amazon.ca*222,402.11,CAD,ws_cc,2024-05-21 10:00:00,ws_0329
+2024-06-22,purchase,amazon prime*333,432.71,CAD,ws_cc,2024-06-22 10:00:00,ws_0330
+2024-07-23,purchase,temu#123,406.32,CAD,ws_cc,2024-07-23 10:00:00,ws_0331
+2024-08-24,purchase,temu456,137.07,CAD,ws_cc,2024-08-24 10:00:00,ws_0332
+2024-09-25,purchase,temu online,394.75,CAD,ws_cc,2024-09-25 10:00:00,ws_0333
+2024-10-26,purchase,walmart superstore,58.51,CAD,ws_cc,2024-10-26 10:00:00,ws_0334
+2024-11-27,purchase,wal-mart#101,436.72,CAD,ws_cc,2024-11-27 10:00:00,ws_0335
+2024-12-28,purchase,wal.mart202,430.0,CAD,ws_cc,2024-12-28 10:00:00,ws_0336
+2024-01-01,purchase,wal mart store,115.1,CAD,ws_cc,2024-01-01 10:00:00,ws_0337
+2024-02-02,purchase,walmart canada,409.21,CAD,ws_cc,2024-02-02 10:00:00,ws_0338
+2024-03-03,purchase,shein123,232.85,CAD,ws_cc,2024-03-03 10:00:00,ws_0339
+2024-04-04,purchase,shein online,156.07,CAD,ws_cc,2024-04-04 10:00:00,ws_0340
+2024-05-05,purchase,shein#456,398.7,CAD,ws_cc,2024-05-05 10:00:00,ws_0341
+2024-06-06,purchase,costco wholesale*789,117.66,CAD,ws_cc,2024-06-06 10:00:00,ws_0342
+2024-07-07,purchase,target#101,16.71,CAD,ws_cc,2024-07-07 10:00:00,ws_0343
+2024-08-08,purchase,safeway_202,100.6,CAD,ws_cc,2024-08-08 10:00:00,ws_0344
+2024-09-09,purchase,best buy*456,167.49,CAD,ws_cc,2024-09-09 10:00:00,ws_0345
+2024-10-10,purchase,staples_123,432.85,CAD,ws_cc,2024-10-10 10:00:00,ws_0346
+2024-11-11,purchase,homer depot#555,483.61,CAD,ws_cc,2024-11-11 10:00:00,ws_0347
+2024-12-12,purchase,ikea*999,143.17,CAD,ws_cc,2024-12-12 10:00:00,ws_0348
+2024-01-13,purchase,can tire_777,322.53,CAD,ws_cc,2024-01-13 10:00:00,ws_0349
+2024-02-14,purchase,sport chek#333,202.84,CAD,ws_cc,2024-02-14 10:00:00,ws_0350
+2024-01-01,refund initiated,amazon refund initiated_0,98.3,CAD,ws_cc,2024-01-01 10:00:00,ws_refinit_0001
+2024-02-02,refund initiated,amazon refund initiated_1,58.26,CAD,ws_cc,2024-02-02 10:00:00,ws_refinit_0002
+2024-03-03,refund initiated,amazon refund initiated_2,94.53,CAD,ws_cc,2024-03-03 10:00:00,ws_refinit_0003
+2024-04-04,refund initiated,amazon refund initiated_3,20.38,CAD,ws_cc,2024-04-04 10:00:00,ws_refinit_0004
+2024-05-05,refund initiated,amazon refund initiated_4,97.34,CAD,ws_cc,2024-05-05 10:00:00,ws_refinit_0005
+2024-06-06,refund initiated,amazon refund initiated_5,26.07,CAD,ws_cc,2024-06-06 10:00:00,ws_refinit_0006
+2024-07-07,refund initiated,amazon refund initiated_6,96.63,CAD,ws_cc,2024-07-07 10:00:00,ws_refinit_0007
+2024-08-08,refund initiated,amazon refund initiated_7,33.89,CAD,ws_cc,2024-08-08 10:00:00,ws_refinit_0008
+2024-09-09,refund initiated,amazon refund initiated_8,19.76,CAD,ws_cc,2024-09-09 10:00:00,ws_refinit_0009
+2024-10-10,refund initiated,amazon refund initiated_9,49.11,CAD,ws_cc,2024-10-10 10:00:00,ws_refinit_0010
+2024-11-11,refund initiated,amazon refund initiated_10,75.57,CAD,ws_cc,2024-11-11 10:00:00,ws_refinit_0011
+2024-12-12,refund initiated,amazon refund initiated_11,38.23,CAD,ws_cc,2024-12-12 10:00:00,ws_refinit_0012
+2024-01-13,refund initiated,amazon refund initiated_12,64.56,CAD,ws_cc,2024-01-13 10:00:00,ws_refinit_0013
+2024-02-14,refund initiated,amazon refund initiated_13,56.03,CAD,ws_cc,2024-02-14 10:00:00,ws_refinit_0014
+2024-03-15,refund initiated,amazon refund initiated_14,44.67,CAD,ws_cc,2024-03-15 10:00:00,ws_refinit_0015
+2024-04-16,refund initiated,amazon refund initiated_15,61.89,CAD,ws_cc,2024-04-16 10:00:00,ws_refinit_0016
+2024-05-17,refund initiated,amazon refund initiated_16,32.93,CAD,ws_cc,2024-05-17 10:00:00,ws_refinit_0017
+2024-06-18,refund initiated,amazon refund initiated_17,73.79,CAD,ws_cc,2024-06-18 10:00:00,ws_refinit_0018
+2024-07-19,refund initiated,amazon refund initiated_18,10.15,CAD,ws_cc,2024-07-19 10:00:00,ws_refinit_0019
+2024-08-20,refund initiated,amazon refund initiated_19,93.3,CAD,ws_cc,2024-08-20 10:00:00,ws_refinit_0020
+2024-09-21,refund initiated,amazon refund initiated_20,58.46,CAD,ws_cc,2024-09-21 10:00:00,ws_refinit_0021
+2024-10-22,refund initiated,amazon refund initiated_21,74.75,CAD,ws_cc,2024-10-22 10:00:00,ws_refinit_0022
+2024-11-23,refund initiated,amazon refund initiated_22,76.78,CAD,ws_cc,2024-11-23 10:00:00,ws_refinit_0023
+2024-12-24,refund initiated,amazon refund initiated_23,70.36,CAD,ws_cc,2024-12-24 10:00:00,ws_refinit_0024
+2024-01-25,refund initiated,amazon refund initiated_24,42.78,CAD,ws_cc,2024-01-25 10:00:00,ws_refinit_0025
+2024-02-26,refund initiated,amazon refund initiated_25,16.3,CAD,ws_cc,2024-02-26 10:00:00,ws_refinit_0026
+2024-03-27,refund initiated,amazon refund initiated_26,69.78,CAD,ws_cc,2024-03-27 10:00:00,ws_refinit_0027
+2024-04-28,refund initiated,amazon refund initiated_27,39.72,CAD,ws_cc,2024-04-28 10:00:00,ws_refinit_0028
+2024-05-01,refund initiated,amazon refund initiated_28,38.25,CAD,ws_cc,2024-05-01 10:00:00,ws_refinit_0029
+2024-06-02,refund initiated,amazon refund initiated_29,86.32,CAD,ws_cc,2024-06-02 10:00:00,ws_refinit_0030
+2024-01-01,refund settled,amazon refund settled_0,74.78,CAD,ws_cc,2024-01-01 10:00:00,ws_refsetp_0001
+2024-02-02,refund settled,amazon refund settled_1,37.03,CAD,ws_cc,2024-02-02 10:00:00,ws_refsetp_0002
+2024-03-03,refund settled,amazon refund settled_2,37.84,CAD,ws_cc,2024-03-03 10:00:00,ws_refsetp_0003
+2024-04-04,refund settled,amazon refund settled_3,46.76,CAD,ws_cc,2024-04-04 10:00:00,ws_refsetp_0004
+2024-05-05,refund settled,amazon refund settled_4,46.22,CAD,ws_cc,2024-05-05 10:00:00,ws_refsetp_0005
+2024-06-06,refund settled,amazon refund settled_5,36.61,CAD,ws_cc,2024-06-06 10:00:00,ws_refsetp_0006
+2024-07-07,refund settled,amazon refund settled_6,21.46,CAD,ws_cc,2024-07-07 10:00:00,ws_refsetp_0007
+2024-08-08,refund settled,amazon refund settled_7,47.84,CAD,ws_cc,2024-08-08 10:00:00,ws_refsetp_0008
+2024-09-09,refund settled,amazon refund settled_8,94.63,CAD,ws_cc,2024-09-09 10:00:00,ws_refsetp_0009
+2024-10-10,refund settled,amazon refund settled_9,70.96,CAD,ws_cc,2024-10-10 10:00:00,ws_refsetp_0010
+2024-11-11,refund settled,amazon refund settled_10,91.25,CAD,ws_cc,2024-11-11 10:00:00,ws_refsetp_0011
+2024-12-12,refund settled,amazon refund settled_11,65.4,CAD,ws_cc,2024-12-12 10:00:00,ws_refsetp_0012
+2024-01-13,refund settled,amazon refund settled_12,37.09,CAD,ws_cc,2024-01-13 10:00:00,ws_refsetp_0013
+2024-02-14,refund settled,amazon refund settled_13,59.31,CAD,ws_cc,2024-02-14 10:00:00,ws_refsetp_0014
+2024-03-15,refund settled,amazon refund settled_14,10.04,CAD,ws_cc,2024-03-15 10:00:00,ws_refsetp_0015
+2024-04-16,refund settled,amazon refund settled_15,35.82,CAD,ws_cc,2024-04-16 10:00:00,ws_refsetp_0016
+2024-05-17,refund settled,amazon refund settled_16,48.69,CAD,ws_cc,2024-05-17 10:00:00,ws_refsetp_0017
+2024-06-18,refund settled,amazon refund settled_17,62.2,CAD,ws_cc,2024-06-18 10:00:00,ws_refsetp_0018
+2024-07-19,refund settled,amazon refund settled_18,68.92,CAD,ws_cc,2024-07-19 10:00:00,ws_refsetp_0019
+2024-08-20,refund settled,amazon refund settled_19,51.85,CAD,ws_cc,2024-08-20 10:00:00,ws_refsetp_0020
+2024-09-21,refund settled,amazon refund settled_20,49.79,CAD,ws_cc,2024-09-21 10:00:00,ws_refsetp_0021
+2024-10-22,refund settled,amazon refund settled_21,29.23,CAD,ws_cc,2024-10-22 10:00:00,ws_refsetp_0022
+2024-11-23,refund settled,amazon refund settled_22,52.59,CAD,ws_cc,2024-11-23 10:00:00,ws_refsetp_0023
+2024-12-24,refund settled,amazon refund settled_23,91.11,CAD,ws_cc,2024-12-24 10:00:00,ws_refsetp_0024
+2024-01-25,refund settled,amazon refund settled_24,81.64,CAD,ws_cc,2024-01-25 10:00:00,ws_refsetp_0025
+2024-02-26,refund settled,amazon refund settled_25,25.27,CAD,ws_cc,2024-02-26 10:00:00,ws_refsetp_0026
+2024-03-27,refund settled,amazon refund settled_26,17.63,CAD,ws_cc,2024-03-27 10:00:00,ws_refsetp_0027
+2024-04-28,refund settled,amazon refund settled_27,56.39,CAD,ws_cc,2024-04-28 10:00:00,ws_refsetp_0028
+2024-05-01,refund settled,amazon refund settled_28,66.96,CAD,ws_cc,2024-05-01 10:00:00,ws_refsetp_0029
+2024-06-02,refund settled,amazon refund settled_29,40.17,CAD,ws_cc,2024-06-02 10:00:00,ws_refsetp_0030
+2024-01-01,refund settled,target refund_0,-83.66,CAD,ws_cc,2024-01-01 10:00:00,ws_refsetn_0001
+2024-02-02,refund settled,target refund_1,-77.6,CAD,ws_cc,2024-02-02 10:00:00,ws_refsetn_0002
+2024-03-03,refund settled,target refund_2,-70.55,CAD,ws_cc,2024-03-03 10:00:00,ws_refsetn_0003
+2024-04-04,refund settled,target refund_3,-30.22,CAD,ws_cc,2024-04-04 10:00:00,ws_refsetn_0004
+2024-05-05,refund settled,target refund_4,-27.92,CAD,ws_cc,2024-05-05 10:00:00,ws_refsetn_0005
+2024-06-06,refund settled,target refund_5,-12.2,CAD,ws_cc,2024-06-06 10:00:00,ws_refsetn_0006
+2024-07-07,refund settled,target refund_6,-32.04,CAD,ws_cc,2024-07-07 10:00:00,ws_refsetn_0007
+2024-08-08,refund settled,target refund_7,-52.76,CAD,ws_cc,2024-08-08 10:00:00,ws_refsetn_0008
+2024-09-09,refund settled,target refund_8,-86.48,CAD,ws_cc,2024-09-09 10:00:00,ws_refsetn_0009
+2024-10-10,refund settled,target refund_9,-16.55,CAD,ws_cc,2024-10-10 10:00:00,ws_refsetn_0010
+2024-11-11,refund settled,target refund_10,-47.3,CAD,ws_cc,2024-11-11 10:00:00,ws_refsetn_0011
+2024-12-12,refund settled,target refund_11,-66.68,CAD,ws_cc,2024-12-12 10:00:00,ws_refsetn_0012
+2024-01-13,refund settled,target refund_12,-27.5,CAD,ws_cc,2024-01-13 10:00:00,ws_refsetn_0013
+2024-02-14,refund settled,target refund_13,-72.67,CAD,ws_cc,2024-02-14 10:00:00,ws_refsetn_0014
+2024-03-15,refund settled,target refund_14,-54.49,CAD,ws_cc,2024-03-15 10:00:00,ws_refsetn_0015
+2024-04-16,refund settled,target refund_15,-31.96,CAD,ws_cc,2024-04-16 10:00:00,ws_refsetn_0016
+2024-05-17,refund settled,target refund_16,-69.05,CAD,ws_cc,2024-05-17 10:00:00,ws_refsetn_0017
+2024-06-18,refund settled,target refund_17,-10.5,CAD,ws_cc,2024-06-18 10:00:00,ws_refsetn_0018
+2024-07-19,refund settled,target refund_18,-77.59,CAD,ws_cc,2024-07-19 10:00:00,ws_refsetn_0019
+2024-08-20,refund settled,target refund_19,-79.3,CAD,ws_cc,2024-08-20 10:00:00,ws_refsetn_0020
+2024-09-21,refund settled,target refund_20,-19.59,CAD,ws_cc,2024-09-21 10:00:00,ws_refsetn_0021
+2024-10-22,refund settled,target refund_21,-48.26,CAD,ws_cc,2024-10-22 10:00:00,ws_refsetn_0022
+2024-11-23,refund settled,target refund_22,-25.83,CAD,ws_cc,2024-11-23 10:00:00,ws_refsetn_0023
+2024-12-24,refund settled,target refund_23,-96.22,CAD,ws_cc,2024-12-24 10:00:00,ws_refsetn_0024
+2024-01-25,refund settled,target refund_24,-56.62,CAD,ws_cc,2024-01-25 10:00:00,ws_refsetn_0025
+2024-02-26,refund settled,target refund_25,-14.52,CAD,ws_cc,2024-02-26 10:00:00,ws_refsetn_0026
+2024-03-27,refund settled,target refund_26,-32.43,CAD,ws_cc,2024-03-27 10:00:00,ws_refsetn_0027
+2024-04-28,refund settled,target refund_27,-86.35,CAD,ws_cc,2024-04-28 10:00:00,ws_refsetn_0028
+2024-05-01,refund settled,target refund_28,-51.08,CAD,ws_cc,2024-05-01 10:00:00,ws_refsetn_0029
+2024-06-02,refund settled,target refund_29,-82.13,CAD,ws_cc,2024-06-02 10:00:00,ws_refsetn_0030
+2024-01-01,payment,payment from chequing account,1368.4,CAD,ws_cc,2024-01-01 10:00:00,ws_pay_0001
+2024-02-02,payment,payment from chequing account,1977.0,CAD,ws_cc,2024-02-02 10:00:00,ws_pay_0002
+2024-03-03,payment,payment from chequing account,1231.36,CAD,ws_cc,2024-03-03 10:00:00,ws_pay_0003
+2024-04-04,payment,payment from chequing account,1905.08,CAD,ws_cc,2024-04-04 10:00:00,ws_pay_0004
+2024-05-05,payment,payment from chequing account,1793.71,CAD,ws_cc,2024-05-05 10:00:00,ws_pay_0005
+2024-06-06,payment,payment from chequing account,1264.04,CAD,ws_cc,2024-06-06 10:00:00,ws_pay_0006
+2024-07-07,payment,payment from chequing account,1466.62,CAD,ws_cc,2024-07-07 10:00:00,ws_pay_0007
+2024-08-08,payment,payment from chequing account,1059.08,CAD,ws_cc,2024-08-08 10:00:00,ws_pay_0008
+2024-09-09,payment,payment from chequing account,1678.08,CAD,ws_cc,2024-09-09 10:00:00,ws_pay_0009
+2024-10-10,payment,payment from chequing account,1140.96,CAD,ws_cc,2024-10-10 10:00:00,ws_pay_0010
+2024-11-11,payment,payment from chequing account,1804.7,CAD,ws_cc,2024-11-11 10:00:00,ws_pay_0011
+2024-12-12,payment,payment from chequing account,1512.95,CAD,ws_cc,2024-12-12 10:00:00,ws_pay_0012
+2024-01-13,payment,payment from chequing account,1001.88,CAD,ws_cc,2024-01-13 10:00:00,ws_pay_0013
+2024-02-14,payment,payment from chequing account,592.46,CAD,ws_cc,2024-02-14 10:00:00,ws_pay_0014
+2024-03-15,payment,payment from chequing account,569.76,CAD,ws_cc,2024-03-15 10:00:00,ws_pay_0015
+2024-04-16,payment,payment from chequing account,1311.56,CAD,ws_cc,2024-04-16 10:00:00,ws_pay_0016
+2024-05-17,payment,payment from chequing account,1555.05,CAD,ws_cc,2024-05-17 10:00:00,ws_pay_0017
+2024-06-18,payment,payment from chequing account,1090.47,CAD,ws_cc,2024-06-18 10:00:00,ws_pay_0018
+2024-07-19,payment,payment from chequing account,1290.82,CAD,ws_cc,2024-07-19 10:00:00,ws_pay_0019
+2024-08-20,payment,payment from chequing account,621.74,CAD,ws_cc,2024-08-20 10:00:00,ws_pay_0020
+2024-09-21,payment,payment from chequing account,247.22,CAD,ws_cc,2024-09-21 10:00:00,ws_pay_0021
+2024-10-22,payment,payment from chequing account,642.88,CAD,ws_cc,2024-10-22 10:00:00,ws_pay_0022
+2024-11-23,payment,payment from chequing account,616.26,CAD,ws_cc,2024-11-23 10:00:00,ws_pay_0023
+2024-12-24,payment,payment from chequing account,707.45,CAD,ws_cc,2024-12-24 10:00:00,ws_pay_0024
+2024-01-25,payment,payment from chequing account,1126.29,CAD,ws_cc,2024-01-25 10:00:00,ws_pay_0025
+2024-02-26,payment,payment from chequing account,362.91,CAD,ws_cc,2024-02-26 10:00:00,ws_pay_0026
+2024-03-27,payment,payment from chequing account,539.4,CAD,ws_cc,2024-03-27 10:00:00,ws_pay_0027
+2024-04-28,payment,payment from chequing account,1418.5,CAD,ws_cc,2024-04-28 10:00:00,ws_pay_0028
+2024-05-01,payment,payment from chequing account,1442.2,CAD,ws_cc,2024-05-01 10:00:00,ws_pay_0029
+2024-06-02,payment,payment from chequing account,222.03,CAD,ws_cc,2024-06-02 10:00:00,ws_pay_0030
+2024-07-03,payment,payment from chequing account,874.44,CAD,ws_cc,2024-07-03 10:00:00,ws_pay_0031
+2024-08-04,payment,payment from chequing account,1130.96,CAD,ws_cc,2024-08-04 10:00:00,ws_pay_0032
+2024-09-05,payment,payment from chequing account,889.97,CAD,ws_cc,2024-09-05 10:00:00,ws_pay_0033
+2024-10-06,payment,payment from chequing account,492.99,CAD,ws_cc,2024-10-06 10:00:00,ws_pay_0034
+2024-11-07,payment,payment from chequing account,898.27,CAD,ws_cc,2024-11-07 10:00:00,ws_pay_0035
+2024-12-08,payment,payment from chequing account,1819.19,CAD,ws_cc,2024-12-08 10:00:00,ws_pay_0036
+2024-01-09,payment,payment from chequing account,1209.75,CAD,ws_cc,2024-01-09 10:00:00,ws_pay_0037
+2024-02-10,payment,payment from chequing account,1421.49,CAD,ws_cc,2024-02-10 10:00:00,ws_pay_0038
+2024-03-11,payment,payment from chequing account,1727.79,CAD,ws_cc,2024-03-11 10:00:00,ws_pay_0039
+2024-04-12,payment,payment from chequing account,1554.63,CAD,ws_cc,2024-04-12 10:00:00,ws_pay_0040
+2024-05-13,payment,payment from chequing account,822.72,CAD,ws_cc,2024-05-13 10:00:00,ws_pay_0041
+2024-06-14,payment,payment from chequing account,111.2,CAD,ws_cc,2024-06-14 10:00:00,ws_pay_0042
+2024-07-15,payment,payment from chequing account,768.34,CAD,ws_cc,2024-07-15 10:00:00,ws_pay_0043
+2024-08-16,payment,payment from chequing account,1531.6,CAD,ws_cc,2024-08-16 10:00:00,ws_pay_0044
+2024-09-17,payment,payment from chequing account,1721.55,CAD,ws_cc,2024-09-17 10:00:00,ws_pay_0045
+2024-10-18,payment,payment from chequing account,1911.52,CAD,ws_cc,2024-10-18 10:00:00,ws_pay_0046
+2024-11-19,payment,payment from chequing account,896.14,CAD,ws_cc,2024-11-19 10:00:00,ws_pay_0047
+2024-12-20,payment,payment from chequing account,1520.28,CAD,ws_cc,2024-12-20 10:00:00,ws_pay_0048
+2024-01-21,payment,payment from chequing account,1137.65,CAD,ws_cc,2024-01-21 10:00:00,ws_pay_0049
+2024-02-22,payment,payment from chequing account,1246.18,CAD,ws_cc,2024-02-22 10:00:00,ws_pay_0050
+2024-03-23,payment,payment from chequing account,519.02,CAD,ws_cc,2024-03-23 10:00:00,ws_pay_0051
+2024-04-24,payment,payment from chequing account,516.9,CAD,ws_cc,2024-04-24 10:00:00,ws_pay_0052
+2024-05-25,payment,payment from chequing account,928.09,CAD,ws_cc,2024-05-25 10:00:00,ws_pay_0053
+2024-06-26,payment,payment from chequing account,155.15,CAD,ws_cc,2024-06-26 10:00:00,ws_pay_0054
+2024-07-27,payment,payment from chequing account,738.65,CAD,ws_cc,2024-07-27 10:00:00,ws_pay_0055
+2024-08-28,payment,payment from chequing account,1390.37,CAD,ws_cc,2024-08-28 10:00:00,ws_pay_0056
+2024-09-01,payment,payment from chequing account,868.2,CAD,ws_cc,2024-09-01 10:00:00,ws_pay_0057
+2024-10-02,payment,payment from chequing account,413.58,CAD,ws_cc,2024-10-02 10:00:00,ws_pay_0058
+2024-11-03,payment,payment from chequing account,988.04,CAD,ws_cc,2024-11-03 10:00:00,ws_pay_0059
+2024-12-04,payment,payment from chequing account,342.49,CAD,ws_cc,2024-12-04 10:00:00,ws_pay_0060
